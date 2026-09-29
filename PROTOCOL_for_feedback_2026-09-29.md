@@ -40,3 +40,14 @@ Using GSE329184 (Tan et al., *npj Aging* 2026; NHDF/NHLF fibroblasts, 2 donors, 
 Not for collaboration or data. Just: **is Test A worth running, and is Test B answerable at all with public data?** Please assess the two questions separately: whether the arrest comparators and phenotyping support Test A, and whether any available survival endpoint and experimental matching support Test B. A recommendation not to proceed with either test would be useful and will be reflected in the write-up.
 
 Everything is reproducible and the failed validations are public, including the withdrawn circular result: https://github.com/Jhodytropical/senescence-connectivity-pilot Run 1 and the corrected report are frozen with checksums. No candidate list is being presented as validated, and no compound here is a recommendation for any use.
+
+---
+
+## Addendum, added 2026-09-29 after the feedback requests were sent
+The text above is unchanged, and the exact state linked in those messages is tagged [`sent-2026-09-29`](https://github.com/Jhodytropical/senescence-connectivity-pilot/tree/sent-2026-09-29). This note is appended rather than folded in, so nothing shifts under anyone who already read it.
+
+**A sharper version of the Test A caveat, which I should have stated outright.** Above I wrote that a rapamycin-only comparator risks isolating "rapamycin's specific effects". That undersells the problem: **rapamycin is itself a senomorphic**, so senescent-vs-rapamycin-arrested may in practice be senescent-vs-*partially-suppressed-senescent*. The resulting signature would then be biased toward whatever rapamycin does not suppress. Two arrest mechanisms, where one of them is rapamycin, is thinner cover than Q1 implies, and serum withdrawal (GSE162175) carries more of the weight than I gave it. If Test A fails, I would expect this to be why.
+
+This strengthens rather than replaces Q1: is a non-senomorphic second arrest mechanism — contact inhibition, or serum withdrawal alone if its phenotyping holds up — a precondition for the comparison meaning anything?
+
+**On stopping.** Restating what the section above already commits to: a recommendation not to proceed is a useful answer and will be recorded as the outcome. The risk I am guarding against is building Test A because the pipeline already exists.
