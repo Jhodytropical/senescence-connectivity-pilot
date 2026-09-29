@@ -1,0 +1,1366 @@
+{
+ "senescent+quiescent+treatment": [
+  {
+   "gse": "GSE329184",
+   "title": "Deciphering Senescence-Associated Mechanisms Through Cell Painting & Transcriptomics",
+   "n": 240,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Senescence is a key pathomechanism across chronic diseases but highly heterogeneous. In this study we demonstrate that high-content imaging and transcriptomics can jointly shed light on senescence in vitro, distinguishing healthy and chemically induced senescence, differentiation from quiescence and characterization of senolytic response."
+  },
+  {
+   "gse": "GSE309059",
+   "title": "hY3 RNA binds and inhibits Ribosomes and modulates the Starvation-induced Integrated Stress Response",
+   "n": 42,
+   "type": "Non-coding RNA profiling by high throughput sequencing",
+   "summary": "Cells adapt to metabolic stress by orchestrating gene expression to mitigate cellular damage, sustain homeostasis, and promote survival. Within this framework, translational control provides a rapid and efficient layer of regulation. Non-coding RNAs have recently emerged as effective modulators of translation, partly by targeting the ribosome. The contribution of ribosome-associated non-coding RNAs (rancRNAs) to translation regulation, however, remains largely unexplored in human cells. Here, we identify the human Y3 RNA (hY3) as a rancRNA that inhibits protein synthesis and attenuates cellula"
+  },
+  {
+   "gse": "GSE307082",
+   "title": "Effect of heat-shock on transcriptome- and proteome-wide stress responses of human IMR-90 fibroblasts in different proliferation states.",
+   "n": 18,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Cellular stress responses are crucial for survival in sub-optimal conditions, and almost invariably involve transcriptome- and proteome-wide alterations. However, most of our understanding of human cell stress responses stems from experiments in rapidly-dividing cell culture models. Here, we used primary human diploid fetal lung fibroblasts (IMR-90) in proliferating, contact-inhibited quiescent, or doxorubicin-induced senescent states, to explore their responses to a severe heat-shock (44 degrees Celsius for 2 hours) at the transcriptome, proteome, poly-ubiquitylated proteome, and insoluble pr"
+  },
+  {
+   "gse": "GSE306635",
+   "title": "SENTRY: Machine Learning Detection of Secondary Senescence",
+   "n": 10,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Cellular senescence is a state of irreversible cell cycle arrest that contributes to age-associated decline through the accumulation of senescent cells and their senescence-associated secretory phenotype (SASP). The SASP, comprising inflammatory signaling molecules and growth factors, can induce secondary senescence in surrounding healthy cells via paracrine signaling. Additionally, secondary senescence can be induced through juxtacrine signaling via activation of NOTCH1. To further understand the progression of cells into primary and secondary senescence, we used a comprehensive single-cell R"
+  },
+  {
+   "gse": "GSE334185",
+   "title": "Cellular senescence dysregulates antiviral interferon responses in idiopathic pulmonary fibrosis",
+   "n": 27,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Patients with idiopathic pulmonary fibrosis (IPF) are highly vulnerable to respiratory virus infections, but the cellular mechanisms linking fibrotic remodeling to impaired local antiviral defense remain unclear. Here, we investigated how cellular senescence shapes the response of patient-derived healthy and IPF primary lung fibroblasts to influenza A virus (IAV) infection. Transcriptomic profiling identified infection as the driver of gene expression in both DNA damage-induced senescent healthy and IPF fibroblasts and revealed induction of canonical antiviral pathways in both cell states. How"
+  },
+  {
+   "gse": "GSE296056",
+   "title": "Targeting XPO1/DDX1-mediated nuclear export of R-loops in inflammaging [CUT&Run]",
+   "n": 6,
+   "type": "Genome binding/occupancy profiling by high throughput sequencing",
+   "summary": "R-loops are three-stranded nucleic acids containing DNA-RNA hybrid and a third displaced ssDNA and are widely distributed across the genome. Dysregulation in R-loop dynamics cause DNA damage and genome instability. Although its role has been extensively investigated in various pathological processes, whether R-loops are perturbed during senescence and tissue aging remains unclear. Here we observe a global decline in R-loop stalling across the genome during senescence. While R-loops in nucleus were dramatically decreased, we detected their significant accumulation in the cytoplasm in senescent "
+  },
+  {
+   "gse": "GSE294635",
+   "title": "RNA profiling of wild-type Osteosarcoma (U2OS) cells and its KO derivative (PERK KO) upon Palbociclib treatment for 4 days",
+   "n": 9,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Dysregulation of cyclin-dependent kinase 4/6 (CDK4/6) occurs in various cancers. Three CDK4/6 inhibitors are approved for clinical use including Palbociclib (PD). CDK4/6 inhibitors trigger early G1 cell cycle arrest in cells, leading to cellular quiescence while long term inhibition enforces transition to senescence. PERK is a shared Kinase between the Unfolded Protein Response (UPR) and the Integrated Stress Response (ISR). We report that PERK inhibition accelerate Palbociclib induce senescence."
+  },
+  {
+   "gse": "GSE292003",
+   "title": "Fatty acid synthesis therapy-induced senescence (FASTIS) in cancer cells",
+   "n": 24,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Conventional chemotherapeutic agents and radiation induce accelerated senescence in cancer cells, a phenomenon known as therapy- induced senescence (TIS). Here, we investigated whether TIS can also be induced by targeted inhibition of de novo lipogenesis, which we term fatty acid synthesis therapy-induced senescence (FASTIS). SKBR3 breast cancer cells were treated for 7 days with clinically relevant inhibitors of the key lipogenic enzymes acetyl-CoA carboxylase (ND-646) and fatty acid synthase (TVB-3166) as well as with the well-established, mechanistically distinct TIS inducers bleomycin (an "
+  },
+  {
+   "gse": "GSE162175",
+   "title": "Transcriptomics of different forms of senescence",
+   "n": 32,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "The goal of this study was to compare the transcriptomics of different forms of senescence with each other and to normal growing and quiescent IMR90 cells.Senescence was induced in IMR90 cells by different stimuli. Therapy-induced senescence was induced by treatment with doxorubicin, irradiation, etoposide and palbociclib. Oncogene-induced senescence was induced by addition of tamoxifen (4OHT) to IMR90 ER:RAS cells."
+  },
+  {
+   "gse": "GSE287059",
+   "title": "Cellular Quiescence Displays a Transcriptional Inflammatory Phenotype Similar to the One in Cellular Senescence [scRNA-seq]",
+   "n": 2,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Cellular senescence, traditionally viewed as the irreversible arrest of proliferating cells in response to stress and DNA damage, is a key mechanism underlying cellular aging. Several studies have identified a process called \u201dquiescence-origin senescence,\u201d where quiescent cells bypass proliferation and transition directly into senescence. In this context, we introduce the concept of the transcriptional Quiescence-Associated Secretory Phenotype (tQASP), a putative inflammatory secretory profile that arises in human quiescent cells and may serve as a precursor to the full senescence-associated s"
+  },
+  {
+   "gse": "GSE287058",
+   "title": "Cellular Quiescence Displays a Transcriptional Inflammatory Phenotype Similar to the One in Cellular Senescence [bulk RNA-seq]",
+   "n": 40,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Cellular senescence, traditionally viewed as the irreversible arrest of proliferating cells in response to stress and DNA damage, is a key mechanism underlying cellular aging. Several studies have identified a process called \u201dquiescence-origin senescence,\u201d where quiescent cells bypass proliferation and transition directly into senescence. In this context, we introduce the concept of the transcriptional Quiescence-Associated Secretory Phenotype (tQASP), a putative inflammatory secretory profile that arises in human quiescent cells and may serve as a precursor to the full senescence-associated s"
+  },
+  {
+   "gse": "GSE297393",
+   "title": "Single-cell RNA sequencing reveals distinct senotypes and a quiescence-senescence continuum at the transcriptome level following chemotherapy",
+   "n": 4,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Quiescence (reversible cell-cycle arrest) and senescence (irreversible arrest) are challenging to distinguish due to a lack of specific biomarkers, yet both arise simultaneously after chemotherapy. While senescence suppresses tumors by limiting proliferation and recruiting the immune system, quiescent cancer cells evade future therapies and may resume proliferation. Here, we pair time-lapse imaging of cell-cycle dynamics with single-cell RNA-sequencing after etoposide treatment to differentiate these states, linking heterogeneous cell-cycle phenotypes to the transcriptomic landscape. We identi"
+  },
+  {
+   "gse": "GSE268487",
+   "title": "High-resolution Hi-C reveals increased chromatin looping with senescence associated with hypomethylation and retrotransposon derepression [RNA-seq]",
+   "n": 9,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "This study presents the highest-resolution chromatin map of cellular senescence to date, shedding light on how genomic architecture is altered with this damaging phenotype. Senescence, a driver of aging, is a pro-inflammatory state of proliferative arrest caused by DNA damage; it is associated with epigenetic changes, including those to chromatin organization. We created ~3kb Hi-C contact maps of proliferating, quiescent, and replicative senescent lung fibroblasts, and also compared these to oncogene-induced senescence. Our findings confirm a loss of heterochromatin, with a shift towards the A"
+  },
+  {
+   "gse": "GSE268486",
+   "title": "High-resolution Hi-C reveals increased chromatin looping with senescence associated with hypomethylation and retrotransposon derepression [Hi-C]",
+   "n": 9,
+   "type": "Other",
+   "summary": "This study presents the highest-resolution chromatin map of cellular senescence to date, shedding light on how genomic architecture is altered with this damaging phenotype. Senescence, a driver of aging, is a pro-inflammatory state of proliferative arrest caused by DNA damage; it is associated with epigenetic changes, including those to chromatin organization. We created ~3kb Hi-C contact maps of proliferating, quiescent, and replicative senescent lung fibroblasts, and also compared these to oncogene-induced senescence. Our findings confirm a loss of heterochromatin, with a shift towards the A"
+  },
+  {
+   "gse": "GSE146585",
+   "title": "Functional genomics assays, including ChIP-seq, ATAC-seq, RNA-seq, GRO-seq, and in situ Hi-C, in the context of replicative senescence",
+   "n": 223,
+   "type": "Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing; Other",
+   "summary": "This SuperSeries is composed of the SubSeries listed below."
+  },
+  {
+   "gse": "GSE146584",
+   "title": "Examining changes in the chromosomal interaction network in replicative senescent, rapamycin treatment, and p65 inhibition",
+   "n": 7,
+   "type": "Other",
+   "summary": "Analysis of HiC genome wide chromosomal interaction data in the context of replicative senescence, rapamycin treatment, the withdrawal of rapamycin, and with p65 inhibition in rapamycin withdrawal.  This was done in order to determine what changes in chromosomal architecture occur during replicative senescence, and what impact rapamycin treatment or withdrawal or p65 inhibition has upon these changes."
+  },
+  {
+   "gse": "GSE146582",
+   "title": "Genome wide analysis of the effect of p65 inhibition upon the epigenomic landscape in high passage growth arrested cells being withdrawn from rapamycin",
+   "n": 8,
+   "type": "Genome binding/occupancy profiling by high throughput sequencing",
+   "summary": "BJ Fibroblasts were maintained in rapamycin and were passaged until reaching growth arrest at very high passages.  These cells were then maintained in or withdrawn from rapamycin, during which time they were given either control treatments or the p65 inhibitor TPCA-1."
+  },
+  {
+   "gse": "GSE146581",
+   "title": "Genome wide expression analysis of high passage growth arrested BJ fibroblasts maintained or withdrawn from rapamycin maintenance.",
+   "n": 4,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "BJ fibroblasts were grown in the presence of rapamycin until reaching growth arrest at high passages, at which point cells were maintained in or withdrawn from rapamycin.  RNA was then harvested for RNA-seq"
+  },
+  {
+   "gse": "GSE146580",
+   "title": "Genome wide expression analysis of senescent BJ fibroblasts in the presence or absence of various SMAD2/3 regulating molecules",
+   "n": 10,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "BJ fibroblasts were grown to replicative senescence, and were then treated with control or SMAD2/3 regulating ligands.  RNA was then harvested for RNA-seq."
+  },
+  {
+   "gse": "GSE146579",
+   "title": "Genome wide expression analysis of high passage growth arrested BJ fibroblasts maintained or withdrawn from rapamycin maintenance, in the presence or absence of various SMAD2/3 regulating molecules",
+   "n": 24,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "BJ fibroblasts were grown in the presence of rapamycin until reaching growth arrest at high passages, at which point cells were maintained in or withdrawn from rapamycin, while also being treated with control or SMAD2/3 regulating ligands.  RNA was then harvested for RNA-seq"
+  },
+  {
+   "gse": "GSE146577",
+   "title": "Genome wide expression analysis of high passage growth arrested BJ fibroblasts maintained or withdrawn from rapamycin maintenance, upon control or transcription factor knockdown",
+   "n": 10,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "shRNAs targetting p65, NFIA, or GFP (control) were expressed in High Passage Growth Arrested BJ fibroblasts maintained in rapamycin, which were then maintained or withdrawn from rapamycin and harvested for RNA-seq"
+  },
+  {
+   "gse": "GSE146575",
+   "title": "Genome wide expression analysis of the impact of rapamycin and DOT1L inhibitor treatment upon the progression of replicative senescence",
+   "n": 12,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "BJ fibroblasts were grown in the continued presence of either rapamycin, the DOT1L inhibitor EPZ-5676, rapamycin + EPZ-5676, or control treatment, and collected for RNA-seq at young-quiescent, intermediate-quiescent, or senescent cell states."
+  },
+  {
+   "gse": "GSE146574",
+   "title": "Genome wide expression analysis of high passage growth arrested BJ fibroblasts maintained or withdrawn from rapamycin maintenance",
+   "n": 4,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "BJ fibroblasts were grown in the presence of rapamycin until reaching growth arrest at high passages, at which point cells were maintained in or withdrawn from rapamycin, and RNA was then harvested for RNA-seq"
+  },
+  {
+   "gse": "GSE146573",
+   "title": "Genome wide expression analysis of young vs senescent BJ fibroblasts",
+   "n": 4,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Young-quiescent and senescent BJ fibroblasts were harvested for RNA-seq analysis in the presence or absence of doxycycline treatment."
+  },
+  {
+   "gse": "GSE146571",
+   "title": "Genome wide mapping of histone mark and transcription factor binding in the context of experiments exploring the enhancer program of senescence II",
+   "n": 4,
+   "type": "Other",
+   "summary": "Analysis of histone and transcription factor epigenomic landscape of BJ fibroblasts from young to replicative senescent"
+  },
+  {
+   "gse": "GSE146569",
+   "title": "Genome wide mapping of the effects of SMAD2/3 ligand treatment upon the distribution of senescence associated transcription factors",
+   "n": 7,
+   "type": "Genome binding/occupancy profiling by high throughput sequencing",
+   "summary": "Analysis of SMAD2/3 and NFI binding in replicative senescent BJ fibroblasts upon treatment with SAMD2/3 regulating ligands."
+  },
+  {
+   "gse": "GSE146568",
+   "title": "Genome wide mapping of the effect of SMAD2/3 regulating treatments upon the epigenomic landscape in high passage growth arrested cells being withdrawn from rapamycin",
+   "n": 33,
+   "type": "Genome binding/occupancy profiling by high throughput sequencing",
+   "summary": "BJ Fibroblasts were maintained in rapamycin and were passaged until reaching growth arrest at very high passages.  These cells were then maintained in or withdrawn from rapamycin, during which time they were given either control treatments or treatments with factors regulating SMAD2/3 activity."
+  },
+  {
+   "gse": "GSE146566",
+   "title": "The effect of rapamycin upon the enhancer landscape in the context of replicative senescence",
+   "n": 12,
+   "type": "Genome binding/occupancy profiling by high throughput sequencing",
+   "summary": "ChIPs of the histone modifications H3K27ac and H3K4me2, which mark enhancers and promoters, were examined during the course of replicative senescence in BJ fibroblasts that were grown in the presence or absence of rapamycin."
+  },
+  {
+   "gse": "GSE146565",
+   "title": "Genome wide mapping of the effect of JMJD6 knockdown upon H4R3me2s in the context of replicative senescence",
+   "n": 6,
+   "type": "Genome binding/occupancy profiling by high throughput sequencing",
+   "summary": "Native ChIP-seq of H4R3me2s was performed in young-quiescent and senescent BJ fibroblasts that had been treated with control or JMJD6 targetting shRNA"
+  },
+  {
+   "gse": "GSE146563",
+   "title": "Genome wide mapping of H3K27ac in IMR90 oncogene induced senescence",
+   "n": 2,
+   "type": "Genome binding/occupancy profiling by high throughput sequencing",
+   "summary": "Analysis of H3K27ac ChIP-seq in IMR90 cells in oncogene induced senescence versus control."
+  },
+  {
+   "gse": "GSE146562",
+   "title": "Genome wide mapping of JMJD6 binding in the context of experiments exploring the enhancer program of senescence",
+   "n": 4,
+   "type": "Genome binding/occupancy profiling by high throughput sequencing",
+   "summary": "Analysis of JMJD6 binding relative to the epigenomic landscape of BJ fibroblasts from young to replicative senescent."
+  },
+  {
+   "gse": "GSE282384",
+   "title": "Substrate Stiffness Dictates Unique Doxorubicin-induced Senescence-associated Secretory Phenotypes and Transcriptomic Signatures in Human Pulmonary Fibroblasts",
+   "n": 12,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Cells are subjected to dynamic mechanical environments which impart forces and induce cellular responses. In age-related conditions like pulmonary fibrosis, there is both an increase in tissue stiffness and an accumulation of senescent cells. While senescent cells produce a senescence-associated secretory phenotype (SASP), the impact of physical stimuli on both cellular senescence and the SASP is not well understood. Here, we show that mechanical tension, modeled using cell culture substrate rigidity, influences senescent cell markers like SA-\u03b2-gal and secretory phenotypes. Comparing human pri"
+  },
+  {
+   "gse": "GSE253003",
+   "title": "Transcriptional changes upon overexpression of seven candidate miRNAs in human saphenous vein smooth muscle cells. [HSVSMC]",
+   "n": 33,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Proliferation of vascular smooth muscle cells (vSMCs) following injury is a crucial factor contributing to pathological vascular remodelling. MicroRNAs (miRNAs) are powerful gene regulators and attractive therapeutics agents. Here, we aim to systemically identify and characterise miRNAs with therapeutic potential in targeting aberrant vSMC proliferation. We performed a high-throughput in vitro screen using a library of 2042 human miRNA-mimics for their impact on VSMC proliferation and identified seven novel antiproliferative miRNAs i.e miR-1827, miR-4774-3p, miR-5681b, miR-449b-5p, miR-491-3p,"
+  },
+  {
+   "gse": "GSE253002",
+   "title": "Transcriptional changes upon overexpression of seven candidate miRNAs in human saphenous vein endothelial cells. [HSVEC]",
+   "n": 27,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Proliferation of vascular smooth muscle cells (vSMCs) following injury is a crucial factor contributing to pathological vascular remodelling. MicroRNAs (miRNAs) are powerful gene regulators and attractive therapeutics agents. Here, we aim to systemically identify and characterise miRNAs with therapeutic potential in targeting aberrant vSMC proliferation. We performed a high-throughput in vitro screen using a library of 2042 human miRNA-mimics for their impact on VSMC proliferation and identified seven novel antiproliferative miRNAs i.e miR-1827, miR-4774-3p, miR-5681b, miR-449b-5p, miR-491-3p,"
+  },
+  {
+   "gse": "GSE266945",
+   "title": "Pro-survival roles for p21(Cip1/Waf1 in Non-Small cell Lung Cancer",
+   "n": 8,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Quiescence is a reversible state of proliferative arrest, distinct from senescence. While cancer is a disease of dysregulated proliferation, cancer cells can retain the ability to enter quiescence which confers advantages to tumour cells by protecting cells from chemotherapy or by allowing cells to metastasise to distant sites. Multiple mechanisms exist to induce and maintain quiescence that are not yet fully understood. Here, we show that high expression of the CDK inhibitor p21Cip1/Waf1 correlates with a poor prognosis in TP53 wild-type, but not TP53 mutant, non-small cell lung cancer (NSCLC"
+  },
+  {
+   "gse": "GSE268488",
+   "title": "High-resolution Hi-C reveals increased chromatin looping with senescence associated with hypomethylation and retrotransposon derepression [Long Read DNA-seq]",
+   "n": 2,
+   "type": "Other",
+   "summary": "This study presents the highest-resolution chromatin map of cellular senescence to date, shedding light on how genomic architecture is altered with this damaging phenotype. Senescence, a driver of aging, is a pro-inflammatory state of proliferative arrest caused by DNA damage; it is associated with epigenetic changes, including those to chromatin organization. We created ~3kb Hi-C contact maps of proliferating, quiescent, and replicative senescent lung fibroblasts, and also compared these to oncogene-induced senescence. Our findings confirm a loss of heterochromatin, with a shift towards the A"
+  },
+  {
+   "gse": "GSE227766",
+   "title": "Senescence-specific translation dysregulation desensitizes cells to stress by inhibiting activation of the integrated stress response",
+   "n": 27,
+   "type": "Expression profiling by high throughput sequencing; Other",
+   "summary": "Senescence is a state of indefinite cell cycle arrest associated with aging, cancer, and age-related diseases. Here we find that translational deregulation and a corresponding maladaptive integrated stress response (ISR) is a hallmark of senescence that desensitizes senescent cells to stress. We present evidence that senescent cells maintain high levels of eIF2? phosphorylation, typical of ISR activation, but translationally repress production of the stress response transcription factor 4 (ATF4) by ineffective bypass of the inhibitory upstream open reading frames (uORFs). Surprisingly, ATF4 tr"
+  },
+  {
+   "gse": "GSE247607",
+   "title": "Transcriptome analysis to investigate the role of ACLY pathway in senescent cells.",
+   "n": 56,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Transcriptome analysis revealed that the inhibition of ACLY pathway supressed the expression of proinflammatory SASP"
+  },
+  {
+   "gse": "GSE241031",
+   "title": "Therapy-induced senescence contributes to the efficacy of abemaciclib in patients with dedifferentiated liposarcoma",
+   "n": 27,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Current research on CDK4/6 inhibitors (CDK4/6i) in the pre-clinical and clinical spaces are largely concerned with gaining a deeper understanding of how these drugs delay tumor growth, and how to prevent cancer cell resistance.  By coordinating a first-in-kind phase II clinical trial of the CDK4/6i abemaciclib for patients with progressive dedifferentiated liposarcoma (DDLS) with cellular studies to identify the molecular basis of geroconversion, we have defined how therapy induced senescence contributes to disease management.  Thirty patients with progressing DDLS enrolled in the clinical tri"
+  },
+  {
+   "gse": "GSE237984",
+   "title": "MAGI1 prevents senescence and promotes the DNA damage response in ER+ breast cancer",
+   "n": 13,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "MAGI1 acts as tumor suppressor in estrogen receptor positive (ER+) breast cancer (BC) and its loss correlates with a more aggressive phenotype. To identify pathways and events affected by MAGI1 loss, we deleted the MAGI1 gene in the ER+ MCF7 BC cell line and performed RNA-sequencing and functional experiments in vitro. Transcriptome analyses revealed gene sets and biological processes related to estrogen signaling, cell cycle and DNA damage response affected by MAGI1 loss. Upon exposure to TNF-alpha/IFN-gamma, MCF7 MAGI1 KO cells entered a deeper level of quiescence/senescence than MCF7 contro"
+  },
+  {
+   "gse": "GSE185703",
+   "title": "A hyper-quiescent chromatin state is a barrier to productive regeneration during aging. [CUT&Tag ]",
+   "n": 16,
+   "type": "Other",
+   "summary": "Epigenetic alterations are one of the key hallmarks of aging. Emerging evidence in model organisms, senescent cell cultures and limitedly, murine, and human tissue samples suggest local effects impacting genes and regulatory elements. However, how chromatin changes broadly affect euchromatin-heterochromatin balance, three-dimensional chromatin conformation, histone composition and global transcriptome has not been addressed. Furthermore, the cause and impact of these alterations on tissue function and age-related loss of regeneration is not well-understood. Here, using murine liver as a model "
+  },
+  {
+   "gse": "GSE225003",
+   "title": "An actin filament branching surveillance system regulates cell cycle progression, cytokinesis and primary ciliogenesis",
+   "n": 6,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Dysfunction of cell cycle control and defects of primary ciliogenesis are two features of many cancers. Whether these events are interconnected and the driving mechanism controlling and coordinating these events remains largely unknown. Here we identified an actin branching surveillance system that alerts cells for the insufficiency of the actin branching network controlling the restriction point, cytokinesis\uff0c and primary ciliogenesis. We found that the ciliopathy protein Oral-Facial-Digital syndrome 1 (OFD1) functions as a previously undescribed class II NPF to promote Arp2/3 complex-mediated"
+  },
+  {
+   "gse": "GSE223128",
+   "title": "Rapid emergence of transcriptional heterogeneity upon molecular stress predisposes cells to two distinct states of senescence",
+   "n": 5,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "We used single-cell RNA-sequencing to characterize different types of senescent cells that arise upon oxidative stress"
+  },
+  {
+   "gse": "GSE171050",
+   "title": "RiboMeth-seq profiling of ribose methylations in ribosomal RNA of proliferating, quiescent and senescent primary human dermal fibroblasts.",
+   "n": 18,
+   "type": "Non-coding RNA profiling by high throughput sequencing",
+   "summary": "The 2\u2019-O-methylation (2\u2019-O-Me) of ribosomal RNA (rRNA) shows plasticity potentially associated with specific cell phenotypes. We used RiboMeth-seq profiling to reveal senescence- and proliferation-specific 2\u2019-O-Me patterns in stress induced premature senescent (SIPS) human dermal fibroblasts."
+  },
+  {
+   "gse": "GSE175686",
+   "title": "Telomeric 8-Oxoguanine Drives Rapid Premature Senescence in the Absence of Telomere Shortening",
+   "n": 18,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Oxidative stress is a primary cause of cellular senescence and contributes to the pathogenesis of numerous human diseases. Oxidative damage to telomeric DNA is proposed to trigger premature senescence by accelerating telomere shortening. Here we tested this model directly using a precision tool to produce the common base lesion 8-oxoguanine (8oxoG) exclusively at telomeres in human fibroblast and epithelial cells. A single induction of telomeric 8oxoG is sufficient to trigger multiple hallmarks of p53-dependent senescence. Telomeric 8oxoG activates ATM and ATR signaling, and enriches for marke"
+  },
+  {
+   "gse": "GSE199278",
+   "title": "Hypoxia-inducible factor 1 signaling drives placental aging and can elicit inflammatory changes in uterine myocytes",
+   "n": 10,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Placental aging has been proposed to promote labor onset, but specific mechanisms remain elusive. An unbiased transcriptomic analysis of healthy mouse placenta revealed that hypoxia-inducible factor 1 (HIF-1) stabilization is a hallmark of advanced gestational timepoints, accompanied by mitochondrial dysfunction and cellular senescence. We validated these gestational age-associated changes through similar findings in human placenta. In parallel in primary mouse trophoblasts and human choriocarcinoma JAR cells, we modeled HIF-1 induction using prolyl hydroxylase inhibitors cobalt chloride (CoCl"
+  },
+  {
+   "gse": "GSE141620",
+   "title": "Solar UVR and exosomal miRNAs effect pre-mature senescence in melanocytes",
+   "n": 10,
+   "type": "Non-coding RNA profiling by array; Expression profiling by RT-PCR",
+   "summary": "This SuperSeries is composed of the SubSeries listed below."
+  },
+  {
+   "gse": "GSE141619",
+   "title": "Solar UVR and exosomal miRNAs effect pre-mature senescence in melanocytes [RT-PCR]",
+   "n": 8,
+   "type": "Expression profiling by RT-PCR",
+   "summary": "The selection of specific miRNAs by exosomes and their release from cultured melanocytes after exposure to solar UVR (UVA+UVB) have activities in inducing these cells into a premature senescence. In this analysis, human TaqMan microRNA array cards A+B were used to measure the relative expression of miRNAs in exosomes isolated from the irradiated and un-irradiated melanocytes."
+  },
+  {
+   "gse": "GSE144397",
+   "title": "AP-1 imprints a reversible transcriptional programme of senescent cells",
+   "n": 96,
+   "type": "Expression profiling by array",
+   "summary": "Senescent cells affect many physiological and pathophysiological processes. While select genetic and epigenetic elements for senescence induction have been identified, the dynamics, epigenetic mechanisms and regulatory networks defining senescence competence, induction and maintenance remain poorly understood, precluding the deliberate therapeutic targeting of senescence for health benefits. Here, we examined the possibility that the epigenetic state of enhancers determines senescent cell fate. We explored this by generating time-resolved transcriptomes and epigenome profiles during oncogenic "
+  },
+  {
+   "gse": "GSE133292",
+   "title": "The loss of heterochromatin is associated with multiscale three-dimensional genome reorganization and aberrant transcription during cellular senescence",
+   "n": 46,
+   "type": "Other; Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing",
+   "summary": "Heterochromatin remodeling is critical for various cell processes. In particular, the \u201closs of heterochromatin\u201d phenotype in cellular senescence engages with the progress of aging and age-related disorders. Although biological processes of senescent cells including senescence-associated heterochromatin foci (SAHF) formation, chromosome compaction and entry into senescence have been closely associated with high-order chromatin structure. the relationship between the high-order chromatin organization and the loss of heterochromatin phenotype during senescence has not been fully understood. By us"
+  },
+  {
+   "gse": "GSE112084",
+   "title": "AP-1 Imprints a Reversible Transcriptional Programme of Senescent Cells",
+   "n": 24,
+   "type": "Expression profiling by array",
+   "summary": "Senescent cells affect many physiological and pathophysiological processes. While select genetic and epigenetic elements for senescence induction have been identified, the dynamics, epigenetic mechanisms and regulatory networks defining senescence competence, induction and maintenance remain poorly understood, precluding the deliberate therapeutic targeting of senescence for health benefits. Here, we examined the possibility that the epigenetic state of enhancers determines senescent cell fate. We explored this by generating time-resolved transcriptomes and epigenome profiles during oncogenic "
+  },
+  {
+   "gse": "GSE119807",
+   "title": "Single cell transcriptomes of replicatively cellular senescenct cells and ionizing radiation induced senescent cells",
+   "n": 4,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "In order to identify the transcriptome change and heterogeneity in replicative senescent cells and stress-induced senescent cells, =we measured 1600 single cell transcriptomes of young quiescent cells at a population doubling (PD) number of 38, middle age quiescent cells (PD = 48), replicative senescent (PD = 71) cells and 50Gy X-ray induced senescent cells of PD38 control cells by Drop-seq."
+  },
+  {
+   "gse": "GSE100014",
+   "title": "Expression data comparing Normal Human Bronchial Epithelial Cells (NHBE) cells in states of senescence, proliferation and quiescence",
+   "n": 9,
+   "type": "Expression profiling by array",
+   "summary": "EGFR inhibitor Erlotinib treatment can induce NHBE into profound cell cycle arrest that include senescence and quiescence. Because senescent cells feature high senescence assocaited-beta-galactosidase(SA-\u03b2-gal) activty, which has been used as marker for FACS based collection of senescent and quiescent cells, respectively."
+  },
+  {
+   "gse": "GSE95354",
+   "title": "Differentially transcribed miRNAs in stress-induced premature senecence (SIPS)",
+   "n": 12,
+   "type": "Non-coding RNA profiling by high throughput sequencing",
+   "summary": "Detection of senescence-associated miRNAs differentially transcribed during early (D7) and late stages (D21) of human dermal fibroblast (HDF) senescence"
+  },
+  {
+   "gse": "GSE93535",
+   "title": "RNAseq of quiescent (Q) and stress induced premature senescent (SIPS) fibroblasts treated with plant extract (1201) from Solidago vigaurea subspecies alpestris",
+   "n": 12,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Quiescent (Q) and stress induced premature senescent (SIPS) fibroblasts were treated for the duration of 4 days with growth medium supplemented with a plant extract (1201) from Solidago vigaurea subspecies alpestris. Rna was isolated with Trizol and sent to GATC for next generation sequencing with Ilumina technology. The plant extract proofed to block the negative effects of senescence in human skin fibroblasts in various experiments by delaying the acquisition of a senescent phenotype/favouring a papillary-like phenotype and attenuating the senescence associated secretory phenotype. The RNAse"
+  },
+  {
+   "gse": "GSE94805",
+   "title": "Gene expression profiling: Quiescence vs. Senescence",
+   "n": 12,
+   "type": "Expression profiling by array",
+   "summary": "Using cDNA arrays, we compared the reversible (quiescence) and irreversible (senescence) growth arrest conditions in osteosarcoma cell line, U2OS, which resulted in certain overlapping and unique gene expression signatures."
+  },
+  {
+   "gse": "GSE74621",
+   "title": "ATRX is necessary for cellular senescence and represses HRAS to drive cells from quiescence into senescence",
+   "n": 29,
+   "type": "Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by high throughput sequencing",
+   "summary": "This SuperSeries is composed of the SubSeries listed below."
+  },
+  {
+   "gse": "GSE74620",
+   "title": "ATRX is necessary for cellular senescence and represses HRAS to drive cells from quiescence into senescence [RNA-Seq]",
+   "n": 12,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Senescence is a state of stable cell cycle exit that has important implications for development, physiology and disease.  It is distinct from quiescence in which cells can be induced to re-enter the cell cycle. Although it is well known that there are massive changes in the heterochromatin of senescent cells, the molecular mechanisms underpinning the transition from reversible quiescence into irreversible senescence have remained elusive. Here, we demonstrate that the chromatin-remodeling enzyme ATRX is required for senescence. ATRX accumulates in nuclear foci during both replicative and cellu"
+  },
+  {
+   "gse": "GSE74619",
+   "title": "ATRX is necessary for cellular senescence and represses HRAS to drive cells from quiescence into senescence [ChIP-Seq]",
+   "n": 17,
+   "type": "Genome binding/occupancy profiling by high throughput sequencing",
+   "summary": "Senescence is a state of stable cell cycle exit that has important implications for development, physiology and disease.  It is distinct from quiescence in which cells can be induced to re-enter the cell cycle. Although it is well known that there are massive changes in the heterochromatin of senescent cells, the molecular mechanisms underpinning the transition from reversible quiescence into irreversible senescence have remained elusive. Here, we demonstrate that the chromatin-remodeling enzyme ATRX is required for senescence. ATRX accumulates in nuclear foci during both replicative and cellu"
+  },
+  {
+   "gse": "GSE76605",
+   "title": "Massive reshaping of genome - nuclear lamina interactions during oncogene induced senescence",
+   "n": 37,
+   "type": "Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing; Genome binding/occupancy profiling by genome tiling array",
+   "summary": "This SuperSeries is composed of the SubSeries listed below."
+  },
+  {
+   "gse": "GSE76594",
+   "title": "Massive reshaping of genome - nuclear lamina interactions during oncogene induced senescence (DamID-seq)",
+   "n": 12,
+   "type": "Genome binding/occupancy profiling by high throughput sequencing",
+   "summary": "Background. Cellular senescence is a mechanism that virtually irreversibly suppresses the proliferative capacity of cells in response to various stress signals. This includes the expression of activated oncogenes, which cause Oncogene-Induced Senescence (OIS). A body of evidence points to the involvement of chromatin reorganization, including the formation of senescence-associated heterochromatic foci (SAHF). The nuclear lamina (NL) is an important contributor to genome organization and has been involved in cellular senescence and organismal aging. It interacts with multiple regions of the gen"
+  },
+  {
+   "gse": "GSE75643",
+   "title": "Massive reshaping of genome - nuclear lamina interactions during oncogene induced senescence (RNA-seq)",
+   "n": 24,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Cellular senescence is a mechanism that virtually irreversibly suppresses the proliferative capacity of cells in response to various stress signals. This includes the expression of activated oncogenes, which cause Oncogene-Induced Senescence (OIS). A body of evidence points to the involvement of chromatin reorganization, including the formation of senescence-associated heterochromatic foci (SAHF). The nuclear lamina (NL) is an important contributor to genome organization and has been involved in cellular senescence and organismal aging. It interacts with multiple regions of the genome called l"
+  },
+  {
+   "gse": "GSE50474",
+   "title": "Aurora kinase inhibition triggers senescence in human melanoma cells",
+   "n": 42,
+   "type": "Expression profiling by array",
+   "summary": "Phenotypically, there is a heterogeneous response of cancer cells to chemotherapy or targeted therapy. While therapeutically much attention is focused on cell death, there is growing evidence suggesting that a subpopulation of cancer cells undergo therapy-induced senescence. Depending on the therapy, dose and timing, senescence may be a dominant phenotype over cell death. An integrated FACS approach identified two types of therapy-induced senescence in human melanoma cells, irreversible senescence induced by Aurora kinase inhibition vs. transient senescence induced by B-RAF kinase inhibition. "
+  },
+  {
+   "gse": "GSE74328",
+   "title": "BRD4 connects enhancer remodeling to senescence immune surveillance",
+   "n": 94,
+   "type": "Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing",
+   "summary": "This SuperSeries is composed of the SubSeries listed below."
+  },
+  {
+   "gse": "GSE74324",
+   "title": "BRD4 connects enhancer remodeling to senescence immune surveillance (RNA-seq)",
+   "n": 72,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Cellular senescence is a homeostatic program associated with tumor suppression, wound healing, and certain age related pathologies. Senescent cells display a repressive chromatin configuration thought to stably silence proliferation-promoting genes, while at the same time activate an unusual form of immune surveillance involving a secretory program referred to as the senescence-associated secretory phenotype (SASP). Here we demonstrate that senescence also involves a global remodeling of the enhancer landscape with recruitment of the chromatin reader BRD4 to newly activated super-enhancers adj"
+  },
+  {
+   "gse": "GSE74238",
+   "title": "BRD4 connects enhancer remodeling to senescence immune surveillance (ChIP-Seq)",
+   "n": 22,
+   "type": "Genome binding/occupancy profiling by high throughput sequencing",
+   "summary": "Cellular senescence is a homeostatic program associated with tumor suppression, wound healing, and certain age related pathologies. Senescent cells display a repressive chromatin configuration thought to stably silence proliferation-promoting genes, while at the same time activate an unusual form of immune surveillance involving a secretory program referred to as the senescence-associated secretory phenotype (SASP). Here we demonstrate that senescence also involves a global remodeling of the enhancer landscape with recruitment of the chromatin reader BRD4 to newly activated super-enhancers adj"
+  },
+  {
+   "gse": "GSE38466",
+   "title": "Aurora kinase inhibition triggers senescence in human melanoma cells",
+   "n": 42,
+   "type": "Expression profiling by array",
+   "summary": "Phenotypically, there is a heterogeneous response of cancer cells to chemotherapy or targeted therapy. While therapeutically much attention is focused on cell death, there is growing evidence suggesting that a subpopulation of cancer cells undergo therapy-induced senescence. Depending on the therapy, dose and timing, senescence may be a dominant phenotype over cell death. An integrated FACS approach identified two types of therapy-induced senescence in human melanoma cells, irreversible senescence induced by Aurora kinase inhibition vs. transient senescence induced by B-RAF kinase inhibition. "
+  },
+  {
+   "gse": "GSE53379",
+   "title": "Phenotype specific analyses of p53 reveal distinct regulatory mechanism for chronically activated p53",
+   "n": 48,
+   "type": "Expression profiling by array",
+   "summary": "microarray analysis with and without sh-p53 in IMR90 (normal human diploid fiborblasts)"
+  },
+  {
+   "gse": "GSE60340",
+   "title": "Pathway Profiling of Replicative and Induced Senescence",
+   "n": 24,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "RNA-seq was performed on LFS MDAH041 cells that were young (PD10-12), aging (PD17-19) and replicatively senescent (PD28-30), as well as spontaneously immortal cells and cells that were induced into senescence or quiescence,  in order to profile the pathways common in all 4 types of sensecence and the pathways affected as a cell approaches senescence."
+  },
+  {
+   "gse": "GSE40343",
+   "title": "Genome wide maps of E2F7 binding in IMR90 cells",
+   "n": 7,
+   "type": "Genome binding/occupancy profiling by high throughput sequencing",
+   "summary": "Oncogene-induced senescence is an anti-proliferative stress response program that acts as a fail-safe mechanism to  limit oncogenic transformation and is regulated by the retinoblastoma protein (RB) and p53 tumor suppressor  pathways. We identify the atypical E2F family member E2F7 as the only E2F transcription factor potently upregulated  during oncogene-induced senescence, a setting where it acts in response to p53 as a direct transcriptional  target. Once induced, E2F7 binds and represses a series of E2F target genes and cooperates with RB to efficiently  promote cell cycle arrest and limit"
+  },
+  {
+   "gse": "GSE24810",
+   "title": "Dissecting the signalling pathways underlying cellular senescence",
+   "n": 48,
+   "type": "Expression profiling by array",
+   "summary": "Cellular senescence is a program of irreversible cell cycle arrest that normal cells undergo in response to progressive shortening of telomeres, changes in telomeric structure, oncogene activation or oxidative stress.  The underlying signalling pathways, potentially of major clinicopathological relevance, are unknown.  A major stumbling block to studying senescence has been the absence of suitable model systems because of the asynchrony of this process in heterogeneous cell populations. To simplify this process many investigators study oncogene-induced senescence due to expression of activated"
+  }
+ ],
+ "senolytic/senomorphic expression": [
+  {
+   "gse": "GSE329184",
+   "title": "Deciphering Senescence-Associated Mechanisms Through Cell Painting & Transcriptomics",
+   "n": 240,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Senescence is a key pathomechanism across chronic diseases but highly heterogeneous. In this study we demonstrate that high-content imaging and transcriptomics can jointly shed light on senescence in vitro, distinguishing healthy and chemically induced senescence, differentiation from quiescence and characterization of senolytic response."
+  },
+  {
+   "gse": "GSE293695",
+   "title": "Senotherapeutic potential against xeroderma pigmentosum",
+   "n": 42,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Background: Xeroderma pigmentosum (XP) is an inherited photoaging syndrome caused by mutations in genes involved in the nucleotide excision repair (NER) pathway.  XP patients exhibit hypersensitivity to ultraviolet (UV) radiation, leading to accelerated skin aging and requiring lifelong sun avoidance.  In this study, we aimed to investigate UV-induced cellular senescence in XP melanocytes and explore potential senotherapeutic strategies. Methods: Melanocytes differentiated from iPSCs derived from an XP-A patient and a healthy individual, respectively, were used to induce senescence. Senescence"
+  },
+  {
+   "gse": "GSE310162",
+   "title": "Heterogeneity in B- and epithelial-cell senescence in the pathogenesis of COPD/emphysema [Xenium]",
+   "n": 22,
+   "type": "Other",
+   "summary": "Increased cellular senescence leading to premature lung aging is a key mechanism for chronic inflammation and airway remodeling in emphysematous-COPD. However, the cell-specific changes resulting in \u2018senescent microenvironment\u2019 in COPD remains elusive. To bridge this gap, we used single-cell multiomics approach to identify the differentially regulated cell types, genes/pathways and spatial organization of senescence phenotype in smoke-induced emphysema in humans. Dimensionality reduction and clustering of 121,885 cells in lung tissues from emphysematous COPD patients and healthy controls (n = "
+  },
+  {
+   "gse": "GSE304561",
+   "title": "Heterogeneity in B- and epithelial-cell senescence in the pathogenesis of COPD/emphysema [scRNA-seq]",
+   "n": 24,
+   "type": "Other; Expression profiling by high throughput sequencing",
+   "summary": "Increased cellular senescence leading to premature lung aging is a key mechanism for chronic inflammation and airway remodeling in emphysematous-COPD. However, the cell-specific changes resulting in \u2018senescent microenvironment\u2019 in COPD remains elusive. To bridge this gap, we used single-cell multiomics approach to identify the differentially regulated cell types, genes/pathways and spatial organization of senescence phenotype in smoke-induced emphysema in humans. Dimensionality reduction and clustering of 121,885 cells in lung tissues from emphysematous COPD patients and healthy controls (n = "
+  },
+  {
+   "gse": "GSE277682",
+   "title": "Premature senescence impairs hematopoietic stem cell function during sickle cell disease in mice and humans (Human Bulk RNA-Seq)",
+   "n": 11,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Curative therapies using autologous genetically modified hematopoietic stem and progenitor cells (HSPCs) are now FDA-approved for sickle cell disease (SCD). However, there are concerns that the pathophysiology of SCD may degrade the quality of HSPCs required for these cellular therapies. We interrogated the phenotype and function of HSPCs in mice and individuals with SCD. We observed elevated cycling, DNA damage, reactive oxygen species, and hallmarks of senescence in bone marrow HSPCs from SCD mice, which correlated with a loss of long-term repopulating HSPCs. Bone marrow HSPCs from individua"
+  },
+  {
+   "gse": "GSE302508",
+   "title": "Exploitation of KAT6A for the treatment of PPP2R1A-mutated cancers",
+   "n": 11,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "PPP2R1A, encoding a subunit of the protein phosphatase 2A (PP2A) enzyme, is mutated in >1% of cases across diverse human cancer types 1. Notably, PPP2R1A mutations are often observed in gynecological cancers 1. To date, clinically applicable therapy based on PPP2R1A mutational status with a durable outcome has not been described. Here we show that inhibition of the KAT6A acetyltransferase induces senescence of PPP2R1A-mutated cancer cells and that PPP2R1A mutational status correlated with response to the KAT6A inhibitors. Mechanistically, mutant PPP2R1A creates KAT6A dependence by regulating t"
+  },
+  {
+   "gse": "GSE292762",
+   "title": "Transcriptional profiling at single-cell resolution reveals diversity and regulatory networks of primary and secondary senescent cells",
+   "n": 8,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "We have employed a single cell sequencing approach using 10x Genomics scRNAseq to study revealed distinct transcriptomic landscapes and senescence trajectories between primary and secondary senescence cells (SnCs). Primary SnCs exhibited enrichment in ECM remodeling and fibrosis-associated pathways, with markers such as COL1A1, ITGA2, FAS, HPGD, and PYGB, implicating them in tissue structural alterations and inflammation. In contrast, secondary SnCs upregulated inflammatory and metabolic reprogramming pathways, with markers including CXCL8, CSF2, BMP2, LAMA4, and PHKG1, indicating their role i"
+  },
+  {
+   "gse": "GSE324211",
+   "title": "Inducible XIST-mediated trisomy 21 correction uncovers a USP16-p16 senescence axis driving epileptogenesis in Down syndrome [scRNA-Seq]",
+   "n": 4,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Down syndrome (DS), caused by human chromosome 21 (HSA21) trisomy, carries elevated epilepsy risk with unknown mechanisms. We integrated clinical epidemiology, fetal brain single-nucleus RNA sequencing, patient-derived induced pluripotent stem cell (iPSC) models, cerebral organoids, and in vivo chimeric mice to dissect this link. Clinical analysis of 1,365 DS individuals exhibited an age-stratified epilepsy prevalence pattern, with higher rates in older children. Fetal brain transcriptomes revealed neurogenesis defects, aging-related signatures, synaptic/metabolic dysregulation. We engineered "
+  },
+  {
+   "gse": "GSE322851",
+   "title": "Inducible XIST-mediated trisomy 21 correction uncovers a USP16-p16 senescence axis driving epileptogenesis in Down syndrome",
+   "n": 45,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Down syndrome (DS), caused by human chromosome 21 (HSA21) trisomy, carries elevated epilepsy risk with unknown mechanisms. We integrated clinical epidemiology, fetal brain single-nucleus RNA sequencing, patient-derived induced pluripotent stem cell (iPSC) models, cerebral organoids, and in vivo chimeric mice to dissect this link. Clinical analysis of 1,365 DS individuals exhibited an age-stratified epilepsy prevalence pattern, with higher rates in older children. Fetal brain transcriptomes revealed neurogenesis defects, aging-related signatures, synaptic/metabolic dysregulation. We engineered "
+  },
+  {
+   "gse": "GSE322654",
+   "title": "RNA-seq analysis of carbon framework-mediated metabolic reprogramming in senescent cells: effects of C3N nanosheets and photoactivation",
+   "n": 9,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "This RNA-seq dataset investigates the senolytic effects of carbon nitride quantum dots (C3N QDs) combined with irradiation on senescent human umbilical vein endothelial cells (HUVECs). The study compares three experimental conditions: senescence alone (S), senescence treated with C3N QDs (S+C), and senescence treated with C3N QDs followed by irradiation (S+C+I). Transcriptomic profiling revealed that the combined treatment (S+C+I) significantly reprogrammed gene expression patterns associated with aging and inflammation. Specifically, the S+C+I group showed a notable upregulation of genes such"
+  },
+  {
+   "gse": "GSE315862",
+   "title": "Targeting the Non-Homologous End-Joining Pathway Sensitizes MDM2-Amplified Liposarcoma to Doxorubicin-Induced Senescence, p53-Mediated Senescence.",
+   "n": 36,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Introduction Dedifferentiated liposarcoma (DDLPS) is a rare cancer defined by amplification of MDM2 and CDK4. Conventional chemotherapy (Doxorubicin) and targeted inhibition of MDM2 and CDK4 show sporadic responses, but most tumors display primary resistance. We used an unbiased approach to identify therapeutic strategies sensitizing to these DDLPS therapies. Methods Three parallel genome-wide CRISPR-Cas9 knockout screens were conducted in DDLPS cells to sensitize to palbociclib (CDK4 inhibitor), nutlin-3a (MDM2 inhibitor) or Doxorubicin. Top screen hits were validated and characterized in bot"
+  },
+  {
+   "gse": "GSE318806",
+   "title": "P21+TREM2+-Senescent Macrophages Fuel Inflammaging and Metabolic Dysfunction-Associated Steatotic Liver Disease. [Blood]",
+   "n": 9,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Cellular senescence drives chronic sterile inflammation during aging via the senescence-associated secretory phenotype (SASP); however, the cell types responsible for this pathology remain poorly defined. Here, we identify p21\u207aTrem2\u207a senescent macrophages as a major source of inflammaging. Using primary mouse and human macrophages, we developed a model of DNA damage and cholesterol-induced senescence and applied multi-omic profiling to fully characterize senescent macrophages. We found that senescent macrophages exhibit a distinctive p21-TREM2 expression profile and SASP, driven in part by typ"
+  },
+  {
+   "gse": "GSE288940",
+   "title": "Characterization of human senescent cell biomarkers for clinical trials",
+   "n": 17,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "There is an increasing need for biomarkers of senescent cell burden to facilitate selection of participants for clinical trials. p16Ink4a is encoded by the CDKN2A locus, which produces five variant transcripts in humans, two of which encode homologous p16 proteins: p16Inka4a, encoded by p16_variant 1, and p16\u0263, encoded by p16_variant 5. While distinct quantitative polymerase chain reaction primers can be designed for p16_variant 5, primers for p16_variant 1 also measure p16_variant 5 (p16_variant 1+5). In a recent clinical trial evaluating effects of the senolytic combination, dasatinib + quer"
+  },
+  {
+   "gse": "GSE280050",
+   "title": "Senolytics rejuvenate aging cardiomyopathy in human cardiac organoids",
+   "n": 15,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Human cardiac organoids closely replicate the architecture and function of the human heart, offering a potential accurate platform for studying aging cardiomyopathy. Senolytics have shown potential in addressing age-related pathologies. However, their potential to reverse aging-related human cardiomyopathy remains largely unexplored. We employed human iPSC-derived cardiac organoids (hCardioids) to model doxorubicin-induced cardiomyopathy in an aged context. hCardioids were treated with doxorubicin (DOXO) and subsequently with a combination of two senolytics: dasatinib (D) and quercetin (Q). DO"
+  },
+  {
+   "gse": "GSE223837",
+   "title": "Combination of the SOX6-induced cellular senescence and senolytic therapy improves the chemosensitivity of cervical cancer",
+   "n": 2,
+   "type": "Expression profiling by array",
+   "summary": "Sex-determining region of Y-related high-mobility-group box 6 (SOX6) is a member of SOX gene family and inhibits the proliferation of cervical cancer cells by inducing cell cycle arrest. However, the mechanisms, final cell fate and significance of these cell cycle arrested cervical cancer cells induced by SOX6 remains unclear. To investigate downstream genes regulated by SOX6 gene in cervical cancer cells, microarray analysis was performed."
+  },
+  {
+   "gse": "GSE291050",
+   "title": "Transcriptome-wide profiling of human stromal cells in mouse xenografts during preclinical treatment involving chemotherapy and/or the novel senomorphic agent dihydromyricetin",
+   "n": 3,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Aging is a major risk factor for the vast majority of geriatric conditions, including various malignancies. Although cancer development can be generally attributed to the accumulation of genetic mutations, biological processes associated with aging also hold the potential to regulate cancer progression. Cellular senescence is a cell state characterized by a permanent cell cycle arrest. Senescent cells tend to accumulate with aging, exhibit pro-inflammatory activities (SASP) and promote cancer development. However, as the effect of cellular senescence on cancer progression is heterogeneous and "
+  },
+  {
+   "gse": "GSE275834",
+   "title": "Transcriptomic characterization of human microglial cells upon therapy-induced senescence and treatment by a natural flavonoid dihydromyricetin",
+   "n": 9,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "The central mechanisms underlying development of central nervous system (CNS) diseases remain unclear, limiting the development of effective therapeutic strategies. Cellular senescence, a biological phenomenon observed in cultured fibroblasts in vitro, has been reported to be a crucial intrinsic mechanism that influences homeostasis of the brain microenvironment and contributes to the onset and progression of CNS pathologies. Cellular senescence has been observed in disease models established in vitro and in vivo, and in bodily fluids or tissues from patients with CNS diseases. These findings "
+  },
+  {
+   "gse": "GSE264364",
+   "title": "Transcriptomic landscape of human stromal cells upon therapy-induced senescence and/or senotherapeutic intervention with melatonin",
+   "n": 3,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "In eukaryotes, cellular senescence is a highly conserved stress response elicited by acute or chronic damage signals. In humans, senescent cells accumulate in multiple tissues at different rates, from 2- to 20-fold when comparing young (<35 years) to old (>65 years) healthy donors. The pathogenic role of cellular senescence in the vast majority of age-related diseases can be explained by the senescence-associated secretory phenotype (SASP). Melatonin is a methoxyindole synthesized and secreted mainly by the pineal gland during night under normal light/dark conditions. The endogenous rhythm of "
+  },
+  {
+   "gse": "GSE280372",
+   "title": "ETC-501 is a Brain Penetrant MNK Kinase Inhibitor that Potentiates TMZ-Induced Senescence and Sensitizes Glioblastoma Cells to Senolytic Therapy",
+   "n": 12,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Glioblastoma (GBM) is the deadliest primary brain tumor in adults, with a median survival of only 15 months and fewer than 10% of patients surviving beyond 5 years. Despite aggressive multimodal therapies, including surgical resection, radiation, and temozolomide (TMZ) chemotherapy, recurrence is almost inevitable. The MNK-eIF4E axis plays a significant role in cancer cell survival, and MNK1 and MNK2 are upregulated in gliomas. In this study, we discovered that elevated MNK1/2 expression correlates with poor prognosis and aggressive GBM phenotypes. Development of ETC-501, a selective brain-pen"
+  },
+  {
+   "gse": "GSE313494",
+   "title": "Heterogeneity of senescent cells underlies resistance to ABT263 and ARV825",
+   "n": 4,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "ABT263 and ARV825 emerged as promising senolytic candidates based on our criteria. Nevertheless, 20\u201330% of senescent cells persisted after treatment with these compounds. To investigate why a subset of cells remained refractory, we examined scRNA-seq to profile the surviving population. Notably, several genes encoding V-ATPase subunits\u2014such as ATP6V0E1, which are essential for lysosomal degradation of damaged organella\u2014were consistently enriched in both ABT263- and ARV825-resistant senescent cells. These findings indicate that cells exhibiting elevated V-ATPase activity may evade senolytic act"
+  },
+  {
+   "gse": "GSE313462",
+   "title": "Characteristics of senescent cells resistant to ABT263 and ARV825",
+   "n": 6,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "ABT263 and ARV825 were identified as promising senolytic drugs based on our criteria. However, 20\u201330% of senescent cells survived treatment with these agents. To clarify why a subset of senescent cells remained resistant, we performed RNA-seq to characterize the surviving population. Several SASP factors were upregulated compared with untreated senescent cells, suggesting that incomplete senolysis may diminish therapeutic benefits and that more effective elimination of senescent cells is required. In addition, AKR1C1\u20133, which are involved in detoxifying reactive carbonyl species and reducing o"
+  },
+  {
+   "gse": "GSE284342",
+   "title": "Endoplasmic reticulum proteostasis in senescent cells is a vulnerability to senolytic vanadyl sulfate",
+   "n": 6,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Lifestyles including dietary choices have a major impact on shaping of human physiology and health, including aging. However, the underlying mechanisms remain largely unknown. Here, we use a blood nutrient compound library-based screening approach to demonstrate that vanadyl sulfate (VS), a mineral dietary supplement, selectively induces cell death in senescent cells, thus extends lifespan and ameliorates phenotypes of aging and age-related disorders in vivo. Integrated functional omics strategies including activity-based protein profiling reveal that senescent cells accumulate glutathione dis"
+  },
+  {
+   "gse": "GSE304030",
+   "title": "oHSV-mediated JAG1 blockade induces glioma senescence-associated secretory phenotype to increase macrophage activation and sensitize to cetuximab-mediated senolysis",
+   "n": 24,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Oncolytic HSV-1 (oHSV) treatment induces Notch signaling and myelosuppression in the tumor microenvironment (TME) of preclinical models. In the clinic, upregulation of JAG1 gene expression was observed in recurrent high-grade glioma patients treated with CAN-3110. Since JAG1 is expressed on both glioma cells and tumor-associated macrophages (TAMs), and its expression correlated with a worse prognosis, we engineered a JAG1-antagonizing oHSV (OncoD-0J1) and interrogated its impact on the tumor and myeloid TME. OncoD-0J1 antagonized JAG1-mediated Notch signaling and had a significant therapeutic "
+  },
+  {
+   "gse": "GSE303830",
+   "title": "oHSV-mediated JAG1 blockade induces glioma senescence-associated secretory phenotype to increase macrophage activation and sensitize to cetuximab-mediated senolysis I",
+   "n": 8,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Oncolytic HSV-1 (oHSV) treatment induces Notch signaling and myelosuppression in the tumor microenvironment (TME) of preclinical models. In the clinic, upregulation of JAG1 gene expression was observed in recurrent high-grade glioma patients treated with CAN-3110. Since JAG1 is expressed on both glioma cells and tumor-associated macrophages (TAMs), and its expression correlated with a worse prognosis, we engineered a JAG1-antagonizing oHSV (OncoD-0J1) and interrogated its impact on the tumor and myeloid TME. OncoD-0J1 antagonized JAG1-mediated Notch signaling and had a significant therapeutic "
+  },
+  {
+   "gse": "GSE298654",
+   "title": "Investigation of the metabolic features of cancer therapy induced senescent cells with TPEF, mass spectrometry and RNA sequencing analysis",
+   "n": 18,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Background. Despite major advances in cancer therapies, treatment failure remains a significant issue for a subset of patients due to therapy resistance and tumour recurrence. A key contributor to these failures is therapy-induced senescence, wherein damaged cells enter a stable cell cycle arrest while remaining metabolically active, contributing to chronic inflammation and cancer relapse. These senescent cells can promote chronic inflammation and disease relapse. However, the heterogeneous nature of senescence complicates its detection and therapeutic targeting. Methods. We employed a multimo"
+  },
+  {
+   "gse": "GSE297560",
+   "title": "Space radiation induces distinct senescent phenotypes: Implications for space travel [bulk RNA-Seq]",
+   "n": 21,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "As Earth\u2019s magnetic field and ozone continue to weaken, space radiation begins pose a significant threat to the health of not only space travelers, but the world\u2019s population. Space radiation and its high-energy and high-charge ions create distinct clusters of DNA and concentrated macromolecular damage that results in the accumulation of senescent cells (SnCs) known to play a critical role in promoting multimorbidity. Here we demonstrate that human fibroblasts exposed to different forms of space radiation acquire senescence-associated phenotypes including morphological alterations and the accu"
+  },
+  {
+   "gse": "GSE297559",
+   "title": "Space radiation induces distinct senescent phenotypes: Implications for space travel [scRNA-Seq]",
+   "n": 6,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "As Earth\u2019s magnetic field and ozone continue to weaken, space radiation begins pose a significant threat to the health of not only space travelers, but the world\u2019s population. Space radiation and its high-energy and high-charge ions create distinct clusters of DNA and concentrated macromolecular damage that results in the accumulation of senescent cells (SnCs) known to play a critical role in promoting multimorbidity. Here we demonstrate that human fibroblasts exposed to different forms of space radiation acquire senescence-associated phenotypes including morphological alterations and the accu"
+  },
+  {
+   "gse": "GSE303831",
+   "title": "oHSV-mediated JAG1 blockade induces glioma senescence-associated secretory phenotype to increase macrophage activation and sensitize to cetuximab-mediated senolysis II",
+   "n": 24,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Oncolytic HSV-1 (oHSV) treatment induces Notch signaling and myelosuppression in the tumor microenvironment (TME) of preclinical models. In the clinic, upregulation of JAG1 gene expression was observed in recurrent high-grade glioma patients treated with CAN-3110. Since JAG1 is expressed on both glioma cells and tumor-associated macrophages (TAMs), and its expression correlated with a worse prognosis, we engineered a JAG1-antagonizing oHSV (OncoD-0J1) and interrogated its impact on the tumor and myeloid TME. OncoD-0J1 antagonized JAG1-mediated Notch signaling and had a significant therapeutic "
+  },
+  {
+   "gse": "GSE283108",
+   "title": "Regulation of ribosomal gene expression and senescence by a PML-mTOR-RONIN nuclear complex in triple-negative breast cancer [ChIP-seq_mTOR]",
+   "n": 2,
+   "type": "Genome binding/occupancy profiling by high throughput sequencing",
+   "summary": "Triple-negative breast cancer (TNBC) is the most aggressive form of breast cancer that associates with poor prognosis and a high risk of relapse with limited treatment options. While the induction of senescence, a state of arrested cell growth, is generally achieved by available anticancer treatments, senescence can adversely promote tumorigenesis through an upheld augmented inflammatory state called senescence-associated secretory phenotype (SASP). Thus, the precise delineation of underlying regulatory mechanisms governing senescence is urgently needed. Herein, we investigated the beneficial "
+  },
+  {
+   "gse": "GSE283107",
+   "title": "Regulation of ribosomal gene expression and senescence by a PML-mTOR-RONIN nuclear complex in triple-negative breast cancer [ChIP-seq_PML]",
+   "n": 4,
+   "type": "Genome binding/occupancy profiling by high throughput sequencing",
+   "summary": "Triple-negative breast cancer (TNBC) is the most aggressive form of breast cancer that associates with poor prognosis and a high risk of relapse with limited treatment options. While the induction of senescence, a state of arrested cell growth, is generally achieved by available anticancer treatments, senescence can adversely promote tumorigenesis through an upheld augmented inflammatory state called senescence-associated secretory phenotype (SASP). Thus, the precise delineation of underlying regulatory mechanisms governing senescence is urgently needed. Herein, we investigated the beneficial "
+  },
+  {
+   "gse": "GSE283106",
+   "title": "Regulation of ribosomal gene expression and senescence by a PML-mTOR-RONIN nuclear complex in triple-negative breast cancer [RNA-seq_shPML]",
+   "n": 6,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Triple-negative breast cancer (TNBC) is the most aggressive form of breast cancer that associates with poor prognosis and a high risk of relapse with limited treatment options. While the induction of senescence, a state of arrested cell growth, is generally achieved by available anticancer treatments, senescence can adversely promote tumorigenesis through an upheld augmented inflammatory state called senescence-associated secretory phenotype (SASP). Thus, the precise delineation of underlying regulatory mechanisms governing senescence is urgently needed. Herein, we investigated the beneficial "
+  },
+  {
+   "gse": "GSE297365",
+   "title": "Integrative single cell analysis of progressive multiple sclerosis induced neural stem cells reveals epigenetically dysregulated type-I-interferon signaling [scRNA-Seq]",
+   "n": 4,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Multiple sclerosis (MS) is a chronic demyelinating disease of the central nervous system, which currently lacks effective therapies that provide regeneration and stop disease progression. A suggested link is anticipated between the development of progressive MS (PMS) and aging, as suggested by recent work identifying hallmarks of cellular senescence in numerous cell types both in vitro with patient cell lines and in vivo in the post-mortem MS brain, including neural stem cells (NSCs). Using an inducible system, directly reprogramming human fibroblasts into induced NSCs (iNSCs), we generated co"
+  },
+  {
+   "gse": "GSE297192",
+   "title": "Integrative single cell analysis of progressive multiple sclerosis induced neural stem cells reveals epigenetically dysregulated type-I-interferon signaling",
+   "n": 25,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Multiple sclerosis (MS) is a chronic demyelinating disease of the central nervous system, which currently lacks effective therapies that provide regeneration and stop disease progression. A suggested link is anticipated between the development of progressive MS (PMS) and aging, as suggested by recent work identifying hallmarks of cellular senescence in numerous cell types both in vitro with patient cell lines and in vivo in the post-mortem MS brain, including neural stem cells (NSCs). Using an inducible system, directly reprogramming human fibroblasts into induced NSCs (iNSCs), we generated co"
+  },
+  {
+   "gse": "GSE243912",
+   "title": "Dietary supplement vanadyl sulfate selectively eliminates senescent cells",
+   "n": 8,
+   "type": "Genome binding/occupancy profiling by high throughput sequencing",
+   "summary": "During human evolution, lifestyles including dietary choices have had a major impact on shaping of human physiology and health, including aging. However, the underlying mechanisms remain largely unknown. Here, we use a blood nutrient compound library-based screening approach to demonstrate that dietary supplement vanadyl sulfate (VS) selectively induces cell death in senescent cells and ameliorates phenotypes of aging and age-related disorders in vivo. Integrated chemical biology and multi-omics studies reveal that senescent cells are specifically sensitive to VS due to reduced cysteine reacti"
+  },
+  {
+   "gse": "GSE264316",
+   "title": "Transcriptomic landscape of human stromal cells upon therapy-induced senescence and/or senotherapeutic intervention with PQQ",
+   "n": 9,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "In higher eukaryotes, cellular senescence represents a significantly conserved stress response triggered by acute or chronic damage signals. In humans, senescent cells can accumulate in multiple tissues and organs at different rates, from 2- to 20-fold when comparing young (<35 years) to old (>65 years) healthy donors. The pathogenic role of cellular senescence in the vast majority of age-related diseases can be explained by the senescence-associated secretory phenotype (SASP). Pyrroloquinoline quinone (PQQ) is a water-soluble vitamin-like compound exhibiting strong antioxidant capacity, and w"
+  },
+  {
+   "gse": "GSE301995",
+   "title": "The tyrosine kinase inhibitor GNF-7 targets senescent cells through allosteric activation of GCN2",
+   "n": 15,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "The one-two-punch approach refers to the sequential administration of two different chemotherapies, the second of which targets cancer cells that resisted the initial treatment. To find such a second punch, we performed a chemical screen to find drugs that are preferentially toxic for cells with an activated DNA damage response (DDR). This screen identified the tyrosine kinase inhibitor GNF-7 as a top hit. Subsequent work revealed that GNF-7 is a potent senolytic, even when senescence is triggered by therapies that do not activate the DDR. Consistently, GNF7 is highly efficacious to kill cance"
+  },
+  {
+   "gse": "GSE305958",
+   "title": "CRISPR Screens Identify the ATPase VCP as a Druggable Therapeutic Vulnerability in Cholangiocarcinoma",
+   "n": 14,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Cholangiocarcinoma (CCA) remains a lethal malignancy with limited therapeutic options. Through genome-wide CRISPR-Cas9 screening, we identified the ATPase valosin-containing protein (VCP) as a critical dependency in CCA. Compound screens revealed that the VCP inhibitor CB-5339 potently suppresses CCA proliferation in a panel of patient derived organoids by inducing cellular senescence. It is known that senescent cells persist and this can contribute to therapy resistance. To address this, we combined CB-5339 with senolytic agents (ABT-263 and conatumumab), which selectively eliminate senescent"
+  },
+  {
+   "gse": "GSE290909",
+   "title": "The Effect of Senolytic (BI01) Administration on DNA Methylation Clock Age and the Methylome in Aged and Regenerated Skeletal Muscle",
+   "n": 51,
+   "type": "Genome binding/occupancy profiling by genome tiling array",
+   "summary": "Background: Senescence cells emerge with aging and injury. The contribution of senescent cells to DNA methylation age (DNAmAGE) in vivo is uncertain. Furthermore, stem cell therapy can mediate \u201crejuvenation\u201d, but how tissue regeneration controlled by resident stem cells affects whole tissue DNAmAGE is unclear. Methods: We assessed DNAmAGE with or without senolytics (BI01) in aged male mice (24-25 months) 35 days following muscle healing (BaCl2-induced regeneration versus non-injured). Young injured mice (5-6 months) without senolytics were comparators.Results: DNAmAGE was decelerated by up to "
+  },
+  {
+   "gse": "GSE291046",
+   "title": "Targeted inhibition of Bcl-xL following radiation reduces tumourigenesis in preclinical models of H3K27M-altered diffuse midline glioma",
+   "n": 18,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Abstract Background: Diffuse midline gliomas (DMGs) with histone H3K27M mutations represent a devastating paediatric brain cancer characterized by abysmal prognosis and limited treatment options. The only approved treatment is radiotherapy (RT), but most of the tumours relapse with fatal consequences. In this study, we sought to investigate whether irradiation leads to senescence induction and explore the efficacy of senolytics against DMG. Methods: We have characterised the senescent phenotype of five genetically heterogeneous H3K27M-altered human DMG cell lines, combining cellular and/or mol"
+  },
+  {
+   "gse": "GSE299492",
+   "title": "Targeting Cellular Senescence to Enhance Human Endometrial Stromal Cells\u2019 Decidualization and Inhibit Their Migration",
+   "n": 8,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Cellular senescence leads to stable cell cycle arrest and an inflammatory senescence-associated secretory phenotype that varies with stressor and cell type. To mitigate these effects and improve health, senotherapeutics (e.g., senolytics and senomorphics) have been developed. Senescent-like endometrial stromal cells (eSCs) lining the uterus of patients with endometriosis and infertility are proposed to impair decidualization, a differentiation process required for uterine receptivity in humans. Quercetin, a natural flavonoid senolytic, dramatically improves decidualization and reduces endometr"
+  },
+  {
+   "gse": "GSE278420",
+   "title": "Senolytic and anti-inflammatory efficacy of quercetin in men and women undergoing coronary artery by-pass surgery",
+   "n": 12,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Recent studies suggest that vascular senescence and its associated inflammation could fuel the so-called inflammaging to favor atherogenesis; whether these pathways can be inactivated in CAD patients (male and female) is unknown. We performed a randomized, double-blind trial involving patients undergoing an elective coronary artery by-pass graft surgery. The patients were randomly assigned to receive either quercetin (500 mg twice daily) or placebo starting two days before surgery. The primary efficacy end point was a reduction in post-operative systemic inflammation. The secondary efficacy en"
+  },
+  {
+   "gse": "GSE287599",
+   "title": "Multi-omics Dissection of MAPK-driven Senescence Unveils Therapeutic Vulnerabilities in KIAA1549::BRAF-fusion Pediatric Low-Grade Glioma Models",
+   "n": 15,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Pilocytic astrocytomas (PA), the most common pediatric low-grade gliomas (pLGGs), are characterized by genetic MAPK pathway alterations leading to constitutive activation and oncogene-induced senescence (OIS) accompanied with the senescence-associated secretory phenotype (SASP). This study investigates the molecular mechanisms of signaling pathways regulating OIS and SASP in pLGGs using a multi-omics approach. We utilized senescent DKFZ-BT66 cells derived from a primary KIAA1549::BRAF-fusion positive PA to generate RNA-sequencing and phospho-/proteomic datasets before and after treatment with "
+  },
+  {
+   "gse": "GSE268701",
+   "title": "Senolytic-Resistant Senescent Cells Have a Distinct SASP Profile and Functional Impact: The Path to Developing Senosensitizers",
+   "n": 12,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "The senescent cell (SC) fate is linked to aging, multiple disorders and diseases, and physical dysfunction. Senolytics, agents that selectively eliminate 30-70% of SCs, act by transiently disabling the senescent cell anti-apoptotic pathways (SCAPs), which defend those SCs that are pro-apoptotic from their own senescence-associated secretory phenotype (SASP). Consistent with this, a JAK/STAT inhibitor, Ruxolitinib, which attenuates the pro-apoptotic SASP of senescent human preadipocytes, caused them to become \u201csenolytic-resistant\u201d. Administering senolytics to obese mice selectively decreased ab"
+  },
+  {
+   "gse": "GSE273244",
+   "title": "BMP4 induces a p21-dependent cell state shift in glioblastoma linking mesenchymal transition to senescence",
+   "n": 80,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Bone morphogenetic protein 4 (BMP4) has emerged as a potential glioblastoma therapy due to its anti-proliferative effect via SOX2 downregulation and differentiation promotion. However  BMP4 responses vary across and within tumors. Our previous data indicate that BMP4 induces a mesenchymal-like cell state  which is associated with therapy-resistance and tumor recurrence  similar to senescence in cancer. In this study  we investigated BMP4?s potential to induce senescence in primary glioblastoma cells  including proneural- and mesenchymal-like clones derived from the same tumor. BMP4 treatment i"
+  },
+  {
+   "gse": "GSE268953",
+   "title": "Cellular senescence in skeletal muscle aging: new mechanisms and therapeutic potential for sarcopenia [snMultiome_ATAC+GEX]",
+   "n": 20,
+   "type": "Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing",
+   "summary": "Skeletal muscle allows voluntary movement and plays a key role in regulating metabolism and homeostasis in the organism. Adult muscle stem cells, MuSCs, are responsible for muscle growth and regeneration. Skeletal muscle suffers from sarcopenia (muscle mass and function loss) during the aging process. Burgeoning evidence suggests that cellular senescence drives MuSC dysfunction in muscle aging. Activation of senescence-associated secretory phenotype (SASP) factors, which is one of the hallmarks of senescence, may be a driving mechanism of sarcopenia but no study so far has clearly defined cell"
+  },
+  {
+   "gse": "GSE268431",
+   "title": "Cellular senescence in skeletal muscle aging: new mechanisms and therapeutic potential for sarcopenia [cut&run_seq_IMR90]",
+   "n": 2,
+   "type": "Genome binding/occupancy profiling by high throughput sequencing",
+   "summary": "Skeletal muscle allows voluntary movement and plays a key role in regulating metabolism and homeostasis in the organism. Adult muscle stem cells, MuSCs, are responsible for muscle growth and regeneration. Skeletal muscle suffers from sarcopenia (muscle mass and function loss) during the aging process. Burgeoning evidence suggests that cellular senescence drives MuSC dysfunction in muscle aging. Activation of senescence-associated secretory phenotype (SASP) factors, which is one of the hallmarks of senescence, may be a driving mechanism of sarcopenia but no study so far has clearly defined cell"
+  },
+  {
+   "gse": "GSE285726",
+   "title": "Targeting cancer through simultaneous inhibition of key metabolic enzymes",
+   "n": 18,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "This study explored the potential metabolic vulnerabilities of ovarian cancer cells in comparison to their non-oncogenically transformed precursor cells. A synthetic lethal screen with inhibitors of metabolic pathways showed that simultaneous administration of (R)-GNE-140 and BMS-986205 (Linrodostat) preferentially halted proliferation of tumor cells. While (R)-GNE-140 inhibits lactate dehydrogenase (LDH)A/B and thus effective glycolysis, the BMS-986205 compound, in addition to its known inhibitory activity on Indoleamine 2,3-dioxygenase (IDO1), can also restrict oxidative phosphorylation, as "
+  },
+  {
+   "gse": "GSE267787",
+   "title": "Mechanical stretch induces senescence of alveolar epithelial cells and drives fibroblast activation by paracrine mechanisms III",
+   "n": 10,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Severe lung injury requiring mechanical ventilation may lead to secondary fibrosis. Senescence, a cell response characterized by cell cycle arrest and a shift towards a proinflammatory/profibrotic phenotype, is one of the mechanisms involved in lung fibrosis. Here, we explore the contribution of mechanical stretch to senescence of the alveolar epithelium and its link with fibrosis. Human alveolar cells and fibroblasts were exposed in vitro to mechanical stretch, and senescence assessed. In addition, fibroblasts were exposed to culture media preconditioned by senescent epithelial cells and thei"
+  },
+  {
+   "gse": "GSE267784",
+   "title": "Mechanical stretch induces senescence of alveolar epithelial cells and drives fibroblast activation by paracrine mechanisms II",
+   "n": 7,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Severe lung injury requiring mechanical ventilation may lead to secondary fibrosis. Senescence, a cell response characterized by cell cycle arrest and a shift towards a proinflammatory/profibrotic phenotype, is one of the mechanisms involved in lung fibrosis. Here, we explore the contribution of mechanical stretch to senescence of the alveolar epithelium and its link with fibrosis. Human alveolar cells and fibroblasts were exposed in vitro to mechanical stretch, and senescence assessed. In addition, fibroblasts were exposed to culture media preconditioned by senescent epithelial cells and thei"
+  },
+  {
+   "gse": "GSE267782",
+   "title": "Mechanical stretch induces senescence of alveolar epithelial cells and drives fibroblast activation by paracrine mechanisms I",
+   "n": 8,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Severe lung injury requiring mechanical ventilation may lead to secondary fibrosis. Senescence, a cell response characterized by cell cycle arrest and a shift towards a proinflammatory/profibrotic phenotype, is one of the mechanisms involved in lung fibrosis. Here, we explore the contribution of mechanical stretch to senescence of the alveolar epithelium and its link with fibrosis. Human alveolar cells and fibroblasts were exposed in vitro to mechanical stretch, and senescence assessed. In addition, fibroblasts were exposed to culture media preconditioned by senescent epithelial cells and thei"
+  },
+  {
+   "gse": "GSE288534",
+   "title": "Targeting Senescent Hepatocytes for Treatment of Metabolic Dysfunction-associated Steatotic Liver Disease and Multi-organ Dysfunction",
+   "n": 24,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Senescent hepatocytes accumulate in metabolic dysfunction-associated steatotic liver disease (MASLD) and are linked to worse clinical outcomes. However, their heterogeneity and lack of specific markers have made them difficult to target therapeutically. Here, we define a senescent hepatocyte gene signature (SHGS) using in vitro and in vivo models and show that it tracks with MASLD progression/regression across mouse models and large human cohorts. Single-nucleus RNA-sequencing and functional studies reveal that SHGS+ hepatocytes originate from p21+ cells, lose key liver functions and release f"
+  },
+  {
+   "gse": "GSE259297",
+   "title": "A p53-CCF circuit integrates genome integrity with senescence phenotypes [WGS 2]",
+   "n": 8,
+   "type": "Other",
+   "summary": "Genomic instability and inflammation are distinct hallmarks of aging, but the connection between them is poorly understood. Understanding their interrelationship will help unravel new mechanisms and therapeutic targets of aging and age-associated diseases. Here we report a novel mechanism directly linking genomic instability and inflammation in senescent cells, through a mitochondria-regulated molecular circuit that connects the p53 tumor suppressor and cytoplasmic chromatin fragments (CCF), a driver of inflammation through the cGAS-STING pathway. Activation or inactivation of p53 by genetic a"
+  },
+  {
+   "gse": "GSE259296",
+   "title": "A p53-CCF circuit integrates genome integrity with senescence phenotypes [WGS 1]",
+   "n": 14,
+   "type": "Other",
+   "summary": "Genomic instability and inflammation are distinct hallmarks of aging, but the connection between them is poorly understood. Understanding their interrelationship will help unravel new mechanisms and therapeutic targets of aging and age-associated diseases. Here we report a novel mechanism directly linking genomic instability and inflammation in senescent cells, through a mitochondria-regulated molecular circuit that connects the p53 tumor suppressor and cytoplasmic chromatin fragments (CCF), a driver of inflammation through the cGAS-STING pathway. Activation or inactivation of p53 by genetic a"
+  },
+  {
+   "gse": "GSE259295",
+   "title": "A p53-CCF circuit integrates genome integrity with senescence phenotypes  [RNA-Seq 2]",
+   "n": 18,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Genomic instability and inflammation are distinct hallmarks of aging, but the connection between them is poorly understood. Understanding their interrelationship will help unravel new mechanisms and therapeutic targets of aging and age-associated diseases. Here we report a novel mechanism directly linking genomic instability and inflammation in senescent cells, through a mitochondria-regulated molecular circuit that connects the p53 tumor suppressor and cytoplasmic chromatin fragments (CCF), a driver of inflammation through the cGAS-STING pathway. Activation or inactivation of p53 by genetic a"
+  },
+  {
+   "gse": "GSE259291",
+   "title": "A p53-CCF circuit integrates genome integrity with senescence phenotypes [RNA-Seq 1]",
+   "n": 12,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Genomic instability and inflammation are distinct hallmarks of aging, but the connection between them is poorly understood. Understanding their interrelationship will help unravel new mechanisms and therapeutic targets of aging and age-associated diseases. Here we report a novel mechanism directly linking genomic instability and inflammation in senescent cells, through a mitochondria-regulated molecular circuit that connects the p53 tumor suppressor and cytoplasmic chromatin fragments (CCF), a driver of inflammation through the cGAS-STING pathway. Activation or inactivation of p53 by genetic a"
+  },
+  {
+   "gse": "GSE275173",
+   "title": "ACSS2 drives senescence-associated secretory phenotype by limiting purine biosynthesis through PAICS acetylation",
+   "n": 6,
+   "type": "Genome binding/occupancy profiling by high throughput sequencing",
+   "summary": "Senescence-associated secretory phenotype (SASP), an established feature of cellular senescence, mediates the biological effects of senescent cell on tissue microenvironment and contributes to aging-associated disease progression. The metabolic enzyme ACSS2 produces acetyl-CoA from acetate and epigenetically regulates gene expression through histone acetylation. Whether and how ACSS2 regulates cellular senescence through non-histone acetylation mechanisms remain unclear. Here we show that ACSS2 drives SASP by promoting PAlCS acetylation to restrain purine metabolism. Genetic and pharmacologica"
+  },
+  {
+   "gse": "GSE274295",
+   "title": "ACSS2 drives senescence-associated secretory phenotype by limiting purine biosynthesis through PAICS acetylation",
+   "n": 9,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Senescence-associated secretory phenotype (SASP), an established feature of cellular senescence, mediates the biological effects of senescent cell on tissue microenvironment and contributes to aging-associated disease progression. The metabolic enzyme ACSS2 produces acetyl-CoA from acetate and epigenetically regulates gene expression through histone acetylation. Whether and how ACSS2 regulates cellular senescence through non-histone acetylation mechanisms remain unclear. Here we show that ACSS2 drives SASP by promoting PAlCS acetylation to restrain purine metabolism. Genetic and pharmacologica"
+  },
+  {
+   "gse": "GSE286438",
+   "title": "Epigallocatechin Gallate (EGCG) Modulates Senescent Endothelial Cell-Monocyte Communication in Age-Related Vascular Inflammation",
+   "n": 12,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Aging significantly affects intercellular communication between vascular endothelial cells (ECs) and hematopoietic cells, leading to vascular inflammation and age-associated diseases. This study determined how senescent ECs communicate with monocytes, whether extracellular vesicles (EVs) released from senescent ECs affect monocyte functions, and investigated the potential for epigallocatechin-3-gallate (EGCG), a flavonoid in green tea, to reverse these effects. Human umbilical vein endothelial cells (HUVECs) were treated with Etoposide (10 \u00b5M, 24h) to induce senescence, followed by EGCG (100 \u00b5"
+  },
+  {
+   "gse": "GSE271928",
+   "title": "Targeting cIAP2 in a novel senolytic strategy prevents glioblastoma recurrence after radiotherapy",
+   "n": 12,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Glioblastomas (GBM) are routinely treated with high doses of ionizing radiation (IR), yet these tumors recur quickly, and the recurrent tumors are highly therapy resistant. Here, we report that IR-induced senescence of tumor cells counterintuitively spurs GBM recurrence, driven by the senescence-associated secretory phenotype (SASP). We find that irradiated GBM cell lines and patient derived xenograft (PDX) cultures senesce rapidly in a p21-dependent manner. Senescent glioma cells upregulate SASP genes and secrete a panoply of SASP factors, prominently interleukin IL-6, an activator of the JAK"
+  },
+  {
+   "gse": "GSE247596",
+   "title": "Increased PTCHD4 expression via m6A modification of PTCHD4 mRNA promotes senescent-cell survival [RNA-seq]",
+   "n": 9,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "RNA modifications, including m6A, critically modulate protein expression program in a range of cellular processes.  Although cellular senescence has been linked to age-related diseases and functional declines, the landscape and impact of m6A modification are poorly understood. Here, we report a robust m6A modification of Patched-Domain Containing Protein 4 (PTCHD4) mRNA at m6A in senescent cells.  The METTL3/METTL14 complex was found to mediate the m6A modification of PTCHD4 mRNA, which increased PTCHD4 mRNA stability and PTCHD4 production.  MeRIP RT-qPCR and eCLIP analyses were used to map th"
+  },
+  {
+   "gse": "GSE247595",
+   "title": "Increased PTCHD4 expression via m6A modification of PTCHD4 mRNA promotes senescent-cell survival [CLIP-seq]",
+   "n": 12,
+   "type": "Other",
+   "summary": "RNA modifications, including m6A, critically modulate protein expression program in a range of cellular processes.  Although cellular senescence has been linked to age-related diseases and functional declines, the landscape and impact of m6A modification are poorly understood. Here, we report a robust m6A modification of Patched-Domain Containing Protein 4 (PTCHD4) mRNA at m6A in senescent cells.  The METTL3/METTL14 complex was found to mediate the m6A modification of PTCHD4 mRNA, which increased PTCHD4 mRNA stability and PTCHD4 production.  MeRIP RT-qPCR and eCLIP analyses were used to map th"
+  },
+  {
+   "gse": "GSE246934",
+   "title": "Increased PTCHD4 expression via m6A modification of PTCHD4 mRNA promotes senescent-cell survival [array]",
+   "n": 9,
+   "type": "Other",
+   "summary": "RNA modifications, including m6A, critically modulate protein expression program in a range of cellular processes.  Although cellular senescence has been linked to age-related diseases and functional declines, the landscape and impact of m6A modification are poorly understood.\u00a0 Here, we report a robust m6A modification of Patched-Domain Containing Protein 4 (PTCHD4) mRNA at m6A in senescent cells.  The METTL3/METTL14 complex was found to mediate the m6A modification of PTCHD4 mRNA, which increased PTCHD4 mRNA stability and PTCHD4 production.  MeRIP RT-qPCR and eCLIP analyses were used to map t"
+  },
+  {
+   "gse": "GSE220720",
+   "title": "Real time quantitative PCR analysis of human biliary epithelial cells",
+   "n": 6,
+   "type": "Expression profiling by RT-PCR",
+   "summary": "Biliary complications are disabling conditions that arise in up to 25% of liver transplanted patients, resulting in additional surgical procedures, re-transplantation or, in the absence of a suitable regraft, death. Here, we investigate the role of the primary cilia, a highly-specialised sensory organelle, in biliary injury leading to biliary complications. Human biopsies were used to study the structure and function of primary cilia in liver transplant recipients that develop biliary complications (N=7), compared to successful transplants (N=12). To study the biological effects of the primary"
+  },
+  {
+   "gse": "GSE255978",
+   "title": "Senescence defines a distinct subset of myofibroblasts that orchestrates immunosuppression in pancreatic cancer",
+   "n": 30,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Therapeutic resistance in PDAC is largely attributed to a unique tumor microenvironment embedded with an abundance of cancer associated fibroblasts (CAFs). Distinct CAF populations were recently identified, but the phenotypic drivers and specific impact of CAF heterogeneity remain unclear. In this study, we identify a subpopulation of senescent myofibroblastic CAFs (SenCAFs) in mouse and human PDAC. These SenCAFs are a subset of myofibroblastic CAFs that localize near tumors ducts, have distinct phenotypes and accumulate with PDAC progression. To assess the impact of endogenous SenCAFs in PDAC"
+  },
+  {
+   "gse": "GSE235244",
+   "title": "Senescent cancer-associated fibroblasts in pancreatic adenocarcinoma suppress CD8+ T cell activation and inhibit response to immune checkpoint therapy [hPDAC]",
+   "n": 8,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Senescent cells appear within tumors and their stroma, exerting complex pro- and anti-tumorigenic functions. The effects of senescent tumor stromal cells are mostly unknown, as is the potential for targeting such senescent cells for improved therapy. Here we uncover the presence of a senescent subset of cancer-associated fibroblasts (CAFs) within pancreatic adenocarcinomas and in premalignant pancreatic lesions. Senescent CAFs show reduced proliferation, and are often associated with the inflammatory CAF (iCAF) subtype. We isolated and characterized senescent CAFs from mouse models and directl"
+  },
+  {
+   "gse": "GSE235233",
+   "title": "Senescent cancer-associated fibroblasts in pancreatic adenocarcinoma suppress CD8+ T cell activation and inhibit response to immune checkpoint therapy [Cultured_Human_Mouse]",
+   "n": 16,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Senescent cells appear within tumors and their stroma, exerting complex pro- and anti-tumorigenic functions. The effects of senescent tumor stromal cells are mostly unknown, as is the potential for targeting such senescent cells for improved therapy. Here we uncover the presence of a senescent subset of cancer-associated fibroblasts (CAFs) within pancreatic adenocarcinomas and in premalignant pancreatic lesions. Senescent CAFs show reduced proliferation, and are often associated with the inflammatory CAF (iCAF) subtype. We isolated and characterized senescent CAFs from mouse models and directl"
+  },
+  {
+   "gse": "GSE178211",
+   "title": "ALK inhibitors suppress HCC and synergize with anti-PD-1 therapy and ABT-263 in preclinical models",
+   "n": 18,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Hepatocellular carcinoma (HCC) currently lacks effective therapies, leaving a critical need for new treatment options. A previous study identified the Anaplastic Lymphoma Kinase (ALK) amplification in HCC patients, raising the question of whether ALK inhibitors could be a viable treatment. Here, we showed that both ALK inhibitors and ALK knockout effectively halted HCC growth in cell cultures. Lorlatinib, a potent ALK inhibitor, suppressed HCC tumor growth and metastasis across various mouse models. Additionally, in an advanced immunocompetent humanized mouse model, when combined with an anti-"
+  },
+  {
+   "gse": "GSE264648",
+   "title": "Characterization of premature cell senescence in Alzheimer\u2019s disease using single nuclear transcriptomics",
+   "n": 49,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Aging is associated with cell senescence and is the major risk factor for AD. We characterized premature cell senescence in post mortem brains from non-diseased controls (NDC) and donors with Alzheimer\u2019s disease (AD) using imaging mass cytometry (IMC) and single nuclear RNA (snRNA) sequencing (>200,000 nuclei). We found increases in numbers of glia immunostaining for galactosidase beta (>4-fold) and p16INK4A (up to 2-fold) with AD relative to NDC. Increased glial expression of genes related to senescence was associated with greater \uf062-amyloid load. Prematurely senescent microglia downregulated "
+  },
+  {
+   "gse": "GSE255777",
+   "title": "RNAseq on Human APAP-ALF",
+   "n": 3,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Fifty percent of all acute liver failure (ALF) cases in the United States are due to acetaminophen (APAP) overdose. Assessment of canonical features of liver injury, such as plasma alanine aminotransferase activities are poor predictors of acute liver failure (ALF), suggesting the involvement of additional mechanisms independent of hepatocyte death. Previous work demonstrated a severe overdose of APAP results in impaired regeneration, the induction of senescence by p21, and increased mortality. We hypothesized that a discrete population of p21+ hepatocytes acquired a secretory phenotype that d"
+  },
+  {
+   "gse": "GSE245935",
+   "title": "Chemo-senolytic therapeutic potential against angiosarcoma",
+   "n": 13,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Angiosarcoma is an aggressive soft-tissue sarcoma with a poor prognosis. Chemotherapy for this cancer typically employs paclitaxel, one of the taxanes (genotoxic drugs), although it has a limited effect due to chemoresistance for prolonged treatment. Here we examine a new angiosarcoma treatment approach that combines chemotherapeutic and senolytic agents. We first find that the chemotherapeutic drugs, cisplatin and paclitaxel, efficiently induce cellular senescence of angiosarcoma cells. Subsequent treatment with a senolytic agent, ABT-263, eliminates senescent cells through the activation of "
+  },
+  {
+   "gse": "GSE248823",
+   "title": "Glycerol-3-phosphate and Phosphoethanolamine homeostatic switch triggers senescence by rewiring lipid metabolism II",
+   "n": 20,
+   "type": "Expression profiling by array",
+   "summary": "Cellular senescence impacts many physiological and pathological processes. A durable cell cycle arrest, inflammatory secretory phenotype, and metabolic reprogramming characterize it. Identifying common and specific metabolic liabilities in senescence provide novel inroads to exploit senescence targeting for health benefits. Here, we use dynamic transcriptome and metabolome profiling in different senescence subtypes to reveal common and specific metabolic signatures. Specifically, we pinpoint the homeostatic switch of glycerol-3-phosphate (G3P) and phosphoethanolamine (PEtn) accumulation, intim"
+  },
+  {
+   "gse": "GSE248822",
+   "title": "Glycerol-3-phosphate and Phosphoethanolamine homeostatic switch triggers senescence by rewiring lipid metabolism I",
+   "n": 63,
+   "type": "Expression profiling by array",
+   "summary": "Cellular senescence impacts many physiological and pathological processes. A durable cell cycle arrest, inflammatory secretory phenotype, and metabolic reprogramming characterize it. Identifying common and specific metabolic liabilities in senescence provide novel inroads to exploit senescence targeting for health benefits. Here, we use dynamic transcriptome and metabolome profiling in different senescence subtypes to reveal common and specific metabolic signatures. Specifically, we pinpoint the homeostatic switch of glycerol-3-phosphate (G3P) and phosphoethanolamine (PEtn) accumulation, intim"
+  },
+  {
+   "gse": "GSE196724",
+   "title": "Ferroptosis as a senolytic target to clear primary and secondary senescent cells",
+   "n": 36,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Purpose: Next-generation sequencing (NGS) on senescent primary endothelial cells. The goals of this study was to compare NGS-derived transcriptome profiling (RNA-seq) of DPP4+ primary and secondary senescent endothelial cells isolated from multiple donors. Methods: Gene expression profile of DPP4+ isolated primary and secondary senescent endothelial cells were generated by deep sequencing, in triplicate, using Illumina Hiseq4000. After investigating the quality of the raw data, sequence reads were trimmed to remove possible adapter sequences and nucleotides with poor quality using Trimmomatic "
+  },
+  {
+   "gse": "GSE241031",
+   "title": "Therapy-induced senescence contributes to the efficacy of abemaciclib in patients with dedifferentiated liposarcoma",
+   "n": 27,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Current research on CDK4/6 inhibitors (CDK4/6i) in the pre-clinical and clinical spaces are largely concerned with gaining a deeper understanding of how these drugs delay tumor growth, and how to prevent cancer cell resistance.  By coordinating a first-in-kind phase II clinical trial of the CDK4/6i abemaciclib for patients with progressive dedifferentiated liposarcoma (DDLS) with cellular studies to identify the molecular basis of geroconversion, we have defined how therapy induced senescence contributes to disease management.  Thirty patients with progressing DDLS enrolled in the clinical tri"
+  },
+  {
+   "gse": "GSE156281",
+   "title": "Therapy-induced senescence of cancer-associated fibroblasts determines survival in rectal cancer",
+   "n": 116,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Standard therapy of rectal cancer comprises a combination of local radio- and systemic chemotherapy prior to surgery. Despite comparable tumor morphology and stage the outcome of such neoadjuvant therapy is heterogeneous and the underlying factors that define therapy response are unknown. Here we demonstrate that cancer-associated fibroblasts (CAFs) rather than tumor cells themselves have major impact on therapy response and survival in a novel pre-clinical in vivo model of rectal cancer as well as in patients. We show that irradiation of tumors increases DNA damage further in inflammatory CAF"
+  },
+  {
+   "gse": "GSE164780",
+   "title": "Insights into Epithelial Cell Senescence from Transcriptome and Secretome Analysis of Human Oral Keratinocytes [DNA-Seq]",
+   "n": 2,
+   "type": "Other",
+   "summary": "Senescent cells are one source of the chronic inflammation that contributes to the diseases and debilities of aging. Whereas cellular senescence in fibroblasts is well documented, how this process is orchestrated in epithelial cells, the origin of human carcinomas, is much less understood. We used normal primary human oral keratinocytes (NOKs) to elucidate senescence programs in a prototype mucosal epithelial cell that undergoes senescence spontaneously. We employed widely-accepted assays to characterize senescence phenotypes in these cells and found that p21WAF1/CIP1 is not a reliable marker "
+  },
+  {
+   "gse": "GSE235768",
+   "title": "Conserved transcriptomic signatures and protein markers in cellular senescence models",
+   "n": 24,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Cellular senescence is described as an irreversible cell cycle arrest induced in response to various stresses. Senescent cells are characterised by heterogeneous signalling alterations, complex secretory phenotype, known as senescence-associated secretory phenotype (SASP), and diverse transcriptomic profile. With the aim to investigate senescence heterogeneity and identify conserved transctiptomic alterations and universal senescence markers, we performed RNA-seq and multiplex proteomic analysis in proteasome inhibition-induced and stress-induced premature senescence models of HFL1 and BJ huma"
+  },
+  {
+   "gse": "GSE221117",
+   "title": "The YAP-TEAD complex promotes senescent cell survival by lowering endoplasmic reticulum stress [scRNA-seq]",
+   "n": 2,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Sublethal cell damage can trigger a complex adaptive program known as senescence, characterized by growth arrest, resistance to apoptosis, and a senescence-associated secretory phenotype (SASP).  As senescent cells accumulating in aging organs are linked to many age-associated diseases, senotherapeutic strategies are actively sought to eliminate them.  Here, a whole-genome CRISPR knockout screen revealed that proteins in the YAP-TEAD pathway influenced senescent cell viability.  Accordingly, treating senescent cells with a drug that inhibited this pathway, Verteporfin (VPF), selectively trigge"
+  },
+  {
+   "gse": "GSE221104",
+   "title": "The YAP-TEAD complex promotes senescent cell survival by lowering endoplasmic reticulum stress [bulk RNA-seq]",
+   "n": 9,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Sublethal cell damage can trigger a complex adaptive program known as senescence, characterized by growth arrest, resistance to apoptosis, and a senescence-associated secretory phenotype (SASP).  As senescent cells accumulating in aging organs are linked to many age-associated diseases, senotherapeutic strategies are actively sought to eliminate them.  Here, a whole-genome CRISPR knockout screen revealed that proteins in the YAP-TEAD pathway influenced senescent cell viability.  Accordingly, treating senescent cells with a drug that inhibited this pathway, Verteporfin (VPF), selectively trigge"
+  },
+  {
+   "gse": "GSE228941",
+   "title": "Antagonizing the irreversible thrombomodulin-initiated proteolytic signaling alleviates age-related liver fibrosis via senescent cell killing",
+   "n": 15,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Cellular senescence is a stress-induced, stable cell cycle arrest phenotype which generates a pro-inflammatory microenvironment, leading to chronic inflammation and age-associated diseases. Determining the fundamental molecular pathways driving senescence instead of apoptosis could enable the identification of senolytic agents to restore tissue homeostasis. Here, we identify thrombomodulin signaling as a key molecular determinant of the senescent cell fate. Although normally restricted to endothelial cells, thrombomodulin is rapidly upregulated and maintained throughout all phases of the senes"
+  },
+  {
+   "gse": "GSE208360",
+   "title": "Clearance of defective muscle stem cells by senolytics reduces the expression of senescence-associated secretory phenotype and restores myogenesis in myotonic dystrophy type 1",
+   "n": 2,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Muscle weakness and atrophy are clinical hallmarks of myotonic dystrophy type 1 (DM1). Muscle stem cells, which contribute to skeletal muscle growth and repair, are also affected in this disease. However, the molecular mechanisms leading to this defective activity and the impact on the disease severity are still elusive. Here, we explored through an unbiased approach the molecular signature leading to myogenic cell defects in DM1. Single cell RNAseq data revealed the presence of a specific subset of DM1 myogenic cells expressing a senescence signature, characterized by the high expression of g"
+  },
+  {
+   "gse": "GSE230026",
+   "title": "Senotherapeutic peptide treatment reduces biological age and senescence burden in human skin models",
+   "n": 12,
+   "type": "Methylation profiling by genome tiling array",
+   "summary": "this work shows the safe reduction of the biological age of ex vivo human skins by a senomorphic peptide."
+  },
+  {
+   "gse": "GSE213993",
+   "title": "Pleiotrophic function of BAFF to promote a senescence-associated secretome and growth arrest",
+   "n": 12,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Senescent cells release a variety of cytokines, proteases and growth factors collectively defined as the Senescent Secretory Associated Phenotype (SASP). Sustained SASP induces a pattern of chronic inflammation associated with aging and implicated in multiple age-related diseases. Here, we investigated the expression and function of the immunomodulatory cytokine BAFF (B-cell activating factor), a SASP factor, in multiple senescence models. First, we characterized BAFF production across different senescence models, including senescent human diploid fibroblasts (WI-38, IMR-90) and monocytic leuk"
+  },
+  {
+   "gse": "GSE210020",
+   "title": "Nintedanib induces senolytic effect via STAT3 inhibition",
+   "n": 40,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Selective removal of senescent cells, or the concept of senolytic therapy, has been proposed to be a potent strategy for overcoming age-related diseases and even reversing aging. We found that nintedanib, a tyrosine kinase inhibitor, selectively induced cell death in primary human diploid fibroblasts undergoing replicative senescence. Similar to ABT263, a well-known senolytic agent, nintedanib triggered intrinsic apoptosis in senescent cells. Additionally, at the concentration producing the senolytic effect, nintedanib arrested the cell cycle of nonsenescent cells in the G1 phase without cytot"
+  },
+  {
+   "gse": "GSE191255",
+   "title": "RNA seq on NEO2734, CFI-400945 or SASP treated cells",
+   "n": 8,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Senolytics, drugs that kill senescent cells, have been proposed to improve the response to pro-senescence cancer therapies. However, lack of broadly acting senolytic drugs remains a challenge. Using inducible CRISPR/Cas9-based genetic screens in different senescent cancer cell models, we identify here loss of the death receptor inhibitor cFLIP as a universal vulnerability of senescent cancer cells. Senescent cancer cells are primed for apoptotic death by NF-kB-mediated upregulation of death receptor DR5 and its ligand TRAIL but are protected from death by increased cFLIP. Activation of DR5 sig"
+  },
+  {
+   "gse": "GSE178115",
+   "title": "Synergistic chemical combination for cell cycle restoration in senescent cells via FoxM1 and E2F1 activation",
+   "n": 39,
+   "type": "Expression profiling by array",
+   "summary": "Cellular senescence wreaks defects in the aging organism. In this study, we co-treated two chemicals: rho-associated protein kinase (ROCK) inhibitor (Y-27632) and ataxia telangiectasia mutated (ATM) inhibitor (KU-60019) to overcome senescence more efficaciously, these two chemicals are already revealed to have senomorphic effects, suppressing senescent phenotypes. We find out that cocktail treatment synergistically alleviates diverse senescent phenotypes in senescent human dermal fibroblast cells. Through transcriptomic approach, FOXM1 and E2F1 are identified as key transcription factor of syn"
+  },
+  {
+   "gse": "GSE204749",
+   "title": "RNA Polymerase I activity prevents terminal differentiation and growth arrest in colorectal cancer and induce vulnerability for senolytics",
+   "n": 12,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Loss of the tumor suppressor APC, which constitutes the initiating event in the adenoma carcinoma sequence for colorectal cancer (CRC), induces expression of RNA polymerase I (RNAPOL1) transcription machinery and subsequently upregulates rDNA transcription. Targeting RNAPOL1 with a specific inhibitor, CX5461, disrupts nucleolar integrity and induces a disbalance of ribosomal proteins. CX5461-induced growth arrest is irreversible, and exhibits features of senescence as well as terminal differentiation. Mechanistically, CX5461 promotes differentiation in a MIZ1- and Rb-dependent manner. In addit"
+  },
+  {
+   "gse": "GSE189519",
+   "title": "single cell RNA sequencing of xenograft prostate cancer model under different treatment",
+   "n": 3,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "We performed single cell RNA sequencing of xenograft prostate cancer models to analyse effect of different drugs. "
+  },
+  {
+   "gse": "GSE190826",
+   "title": "Inflammatory fibroblasts mediate resistance to neoadjuvant therapy in rectal cancer",
+   "n": 117,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Standard cancer therapy targets tumor cells while not considering the possible collateral damage on the tumor microenvironment that could impair therapy response. Employing patient-derived tumor organoids and primary stroma cells or a novel murine rectal cancer model, we show that tumor cell-derived IL-1a polarizes cancer-associated fibroblasts (CAFs) towards a pro-inflammatory phenotype causing an elevated oxidative DNA damage mediated by reactive nitrogen species (NOS) and subsequently sensitizing iCAFs to a p53-mediated therapy-induced senescence, which triggers changes in matrisome composi"
+  },
+  {
+   "gse": "GSE142542",
+   "title": "Whole transcriptome analysis and functional studies reveal that senescence plays a pivotal role in Myotonic Dystrophy type 1",
+   "n": 10,
+   "type": "Expression profiling by array",
+   "summary": "Myotonic dystrophy type 1 (DM1, MIM #160900) is an autosomal dominant disorder, clinically characterized by progressive muscular weakness and multisystem degeneration. The broad phenotypes observed in DM1 patients resemble the appearance of a multisystem accelerated aging process. However, the molecular mechanisms underlying these phenotypes remain largely unknown. Transcriptomic analysis of fibroblasts derived from DM1 patients and healthy individuals revealed a decrease in cell cycle activity, cell division, and DNA damage response in DM1, all of which were required for the accumulation of c"
+  },
+  {
+   "gse": "GSE160255",
+   "title": "Gene expression profiling with hypoxia and BRD-K34222889 from primary human pulmonary artery endothelial cells (HPAECs)",
+   "n": 9,
+   "type": "Expression profiling by array",
+   "summary": "BRD-K34222889 is a structural analog of the anti-inflammatory and senolytic drug piperlongumine. Piperlongumine inhibits GSTP1, an enzyme that places glutathione moieties on cysteine residues of various protein targets and for modulation of protein stability. The objective of this experiment was to determine the effect of a Piperlongumine analog BRD-K34222889 in endothelial dysfunction. Interestingly, BRD-K34222889 was found to inhibit glutathione S-transferase P (GSTP1), which increased ISCU protein stability via preventing glutathionylation and thus increased oxidative metabolism and decreas"
+  },
+  {
+   "gse": "GSE185192",
+   "title": "Down Syndrome Induced Senescence Disrupts the Nuclear Architecture of Neural Progenitors",
+   "n": 64,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "We utilized human derived induced pluripotent stem cells (iPSCs) and iPSC derived neural progenitor cells (NPCs) from individuals with Down syndrome and sex matched controls to interrogate the cell type consequences of trisomy 21 (T21). We report the consequences of T21 on the spatial chromatin organization (Hi-C), lamina-associated domains (ChIP-seq), chromatin state (ATAC-seq), and transcriptome (RNA-seq)  in an isogenic pair (euploid: Iso-E and trisomic: Iso-T cells derived from the same individual), pair of male individuals with euploid (Ma-E) and trisomic (Ma-T), pair of female individual"
+  },
+  {
+   "gse": "GSE178376",
+   "title": "Transcriptomic profiling of human stromal cells in mouse xenografts upon treatment with chemotherapeutic drug and/or the senolytic agent procyanidin C1",
+   "n": 9,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Physical function declines in advanced age, portending disability, increased health expenditures, and clinical mortality. Cellular senescence leads to tissue dysfunction and contributes to the consequences of aging, but whether age-related pathologies including cancer can be alleviated by targeting senescent cells remains largely unclear. Long term retention of senescent cells in vivo, a process mainly attributed to high expression of BCL2 family proteins, causes chronical tissue damages mainly through the senescence-associated secretory phenotype (SASP). Indeed, senescent cells can be removed"
+  },
+  {
+   "gse": "GSE164012",
+   "title": "Transcriptomic profiling of human senescent cells upon treatment with the senolytic agent procyanidin C1",
+   "n": 9,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "In the course of aging, the long term retention of senescent cells in vivo, a process mainly attributed to highly expressed BCL-family proteins, chronically damages tissues mainly through a senescence-associated secretory phenotype (SASP). It has been documented that accumulation of senescent cells accelerates aging and contributes to age-related diseases. Indeed, senescent cells can be removed by several strategies, thus preventing occurrence of chronic disorders and prolonging lifespan and healthspan. Senolytics, which eliminate senescent cells by pharmacological intervention, have recently "
+  },
+  {
+   "gse": "GSE165468",
+   "title": "Suppression of LBR by miR-340 disrupts chromatin, promotes cell senescence, and enhances senolysis (RNA-Seq 2)",
+   "n": 6,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "One of the cellular processes influenced by microRNAs is senescence, a state of indefinite growth arrest triggered by sublethal cell damage. Here, through bioinformatic analysis and experimental validation, we identified miR-340-5p as a novel miRNA that foments cellular senescence. miR340-5p was highly abundant in diverse senescence models, and miR-340-5p overexpression in proliferating cells rendered them senescent. Among the target mRNAs, miR-340-5p prominently reduced the levels of LBR mRNA, encoding Lamin B Receptor (LBR). Loss of LBR by ectopic overexpression of miR-340-5p derepressed het"
+  },
+  {
+   "gse": "GSE165466",
+   "title": "Suppression of LBR by miR-340 disrupts chromatin, promotes cell senescence, and enhances senolysis (RNA-Seq 1)",
+   "n": 4,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "One of the cellular processes influenced by microRNAs is senescence, a state of indefinite growth arrest triggered by sublethal cell damage. Here, through bioinformatic analysis and experimental validation, we identified miR-340-5p as a novel miRNA that foments cellular senescence. miR340-5p was highly abundant in diverse senescence models, and miR-340-5p overexpression in proliferating cells rendered them senescent. Among the target mRNAs, miR-340-5p prominently reduced the levels of LBR mRNA, encoding Lamin B Receptor (LBR). Loss of LBR by ectopic overexpression of miR-340-5p derepressed het"
+  },
+  {
+   "gse": "GSE165465",
+   "title": "Suppression of LBR by miR-340 disrupts chromatin, promotes cell senescence, and enhances senolysis (ATAC-Seq)",
+   "n": 8,
+   "type": "Genome binding/occupancy profiling by high throughput sequencing",
+   "summary": "The goal of this study was to identify accessible chromatin peaks in lamina-associated domains of senescent cells. To establish senescence we used ionizing radiation (IR), overexpression of miR-340-5p, and knockdown of Lamin B Receptor (LBR).One of the cellular processes influenced by microRNAs is senescence, a state of indefinite growth arrest triggered by sublethal cell damage. Here, through bioinformatic analysis and experimental validation, we identified miR-340-5p as a novel miRNA that foments cellular senescence. miR340-5p was highly abundant in diverse senescence models, and miR-340-5p "
+  },
+  {
+   "gse": "GSE160234",
+   "title": "Expression data of control, doxorubicin and/or Y27632 treated HeLa cells",
+   "n": 15,
+   "type": "Expression profiling by array",
+   "summary": "In the treatment of cancer with chemotherapeutics, it has been observed that a significant amount of cancer cells turn into senescent cells. These senescent cells secrete several factors in their microenvironment called SASP. Therefore, recently, to develop the senolytic and/or senomorphic drugs, targeting the senescent cells gains importance as a new strategy for preventing the damage that senescent cancer cells cause. In the current work, we evaluated whether Rho/Rho kinase pathway has a potential to be used as a target pathway for the development of senolytic and/or senomorphic drugs, in do"
+  },
+  {
+   "gse": "GSE155371",
+   "title": "Insights into Epithelial Cell Senescence from Transcriptome and Secretome Analysis of Human Oral Keratinocytes [RNA-seq]",
+   "n": 18,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Senescent cells are one source of the chronic inflammation that contributes to the diseases and debilities of aging.  Whereas cellular senescence in fibroblasts is well documented, how this process is orchestrated in epithelial cells, the origin of human carcinomas, is much less understood.  We used normal primary human oral keratinocytes (NOKs) to elucidate senescence programs in a prototype mucosal epithelial cell that undergoes senescence spontaneously.  We employed widely-accepted assays to characterize senescence phenotypes in these cells and found that p21WAF1/CIP1 is not a reliable mark"
+  },
+  {
+   "gse": "GSE168405",
+   "title": "Single-cell RNA Sequencing of Endometrial Assembloid Cultures",
+   "n": 9,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Decidual remodelling of midluteal endometrium leads to a short implantation window after which the uterine mucosa either breaks down or is transformed into a robust matrix that accommodates the placenta throughout pregnancy. To gain insights into the underlying mechanisms, we established and characterised endometrial assembloids, consisting of gland organoids and primary stromal cells. Single-cell transcriptomics revealed that decidualized assembloids closely resemble midluteal endometrium, harbouring differentiated and senescent subpopulations in both glands and stroma. We show that acute sen"
+  },
+  {
+   "gse": "GSE151604",
+   "title": "Highly accurate Skin-Specific methylome analysis algorithm as a platform to screen and validate therapeutics for healthy aging [DS5]",
+   "n": 10,
+   "type": "Methylation profiling by genome tiling array",
+   "summary": "In the present study, we developed a highly accurate Skin-Specific DNAm age predictor, using DNAm data obtained from 508 human skin samples. Based on the analysis of 2,266 CpG sites, we accurately calculated the DNAm age of cultured skin cells, and human skin biopsies. Age estimation was sensitive to the biological age of the donor, cell passage, skin disease status, as well as treatment with senotherapeutic drugs."
+  },
+  {
+   "gse": "GSE151603",
+   "title": "Highly accurate Skin-Specific methylome analysis algorithm as a platform to screen and validate therapeutics for healthy aging [DS4]",
+   "n": 12,
+   "type": "Methylation profiling by genome tiling array",
+   "summary": "In the present study, we developed a highly accurate Skin-Specific DNAm age predictor, using DNAm data obtained from 508 human skin samples. Based on the analysis of 2,266 CpG sites, we accurately calculated the DNAm age of cultured skin cells, and human skin biopsies. Age estimation was sensitive to the biological age of the donor, cell passage, skin disease status, as well as treatment with senotherapeutic drugs."
+  },
+  {
+   "gse": "GSE151602",
+   "title": "Highly accurate Skin-Specific methylome analysis algorithm as a platform to screen and validate therapeutics for healthy aging [DS3]",
+   "n": 6,
+   "type": "Methylation profiling by genome tiling array",
+   "summary": "In the present study, we developed a highly accurate Skin-Specific DNAm age predictor, using DNAm data obtained from 508 human skin samples. Based on the analysis of 2,266 CpG sites, we accurately calculated the DNAm age of cultured skin cells, and human skin biopsies. Age estimation was sensitive to the biological age of the donor, cell passage, skin disease status, as well as treatment with senotherapeutic drugs."
+  },
+  {
+   "gse": "GSE151601",
+   "title": "Highly accurate Skin-Specific methylome analysis algorithm as a platform to screen and validate therapeutics for healthy aging [DS2]",
+   "n": 6,
+   "type": "Methylation profiling by genome tiling array",
+   "summary": "In the present study, we developed a highly accurate Skin-Specific DNAm age predictor, using DNAm data obtained from 508 human skin samples. Based on the analysis of 2,266 CpG sites, we accurately calculated the DNAm age of cultured skin cells, and human skin biopsies. Age estimation was sensitive to the biological age of the donor, cell passage, skin disease status, as well as treatment with senotherapeutic drugs."
+  },
+  {
+   "gse": "GSE151600",
+   "title": "Highly accurate Skin-Specific methylome analysis algorithm as a platform to screen and validate therapeutics for healthy aging [DS1]",
+   "n": 16,
+   "type": "Methylation profiling by genome tiling array",
+   "summary": "In the present study, we developed a highly accurate Skin-Specific DNAm age predictor, using DNAm data obtained from 508 human skin samples. Based on the analysis of 2,266 CpG sites, we accurately calculated the DNAm age of cultured skin cells, and human skin biopsies. Age estimation was sensitive to the biological age of the donor, cell passage, skin disease status, as well as treatment with senotherapeutic drugs."
+  },
+  {
+   "gse": "GSE132914",
+   "title": "Senescence rather than apoptosis of alveolar progenitor cells drives pulmonary fibrosis (human)",
+   "n": 6,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Idiopathic pulmonary fibrosis (IPF) is a fatal form of interstitial lung disease associated with progressive scarring of lung tissue and declining pulmonary function in aging individuals. Here we employ data mining and single cell RNA sequencing (scRNAseq) to define candidate drivers of AT2 senescence in IPF lung tissue. We show that AT2 cells isolated from IPF lung tissue exhibit characteristic features of cellular senescence and reduced abundance of Sin3a, critical determinant of endodermal progenitor cell maintenance in the developing lung. Conditional loss of Sin3a within AT2 cells of the "
+  },
+  {
+   "gse": "GSE140961",
+   "title": "RNA sequencing analysis of ARV825 target genes in senescent cells",
+   "n": 4,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Although cellular senescence acts primarily as a tumor suppression mechanism, the accumulation of senescent cells in vivo eventually exerts deleterious side effects through inflammatory/tumor-promoting factor secretion.  Thus, the development of new drugs that cause the specific elimination of senescent cells, termed senolysis, is anticipated.  Here, by an unbiased high-throughput screening of chemical compounds and a bio-functional analysis, we identify ARV825 as a promising senolytic drug.  ARV825 treatment eliminates senescent hepatic stellate cells in obese mouse livers, accompanied by the"
+  },
+  {
+   "gse": "GSE66236",
+   "title": "Achilles Heels of Senescent Cells: From Transcriptome to Senolytic Drugs",
+   "n": 16,
+   "type": "Expression profiling by array",
+   "summary": "The healthspan of mice is enhanced by selectively killing senescent cells using a transgenic suicide gene. Achieving the same using small molecules would have a tremendous impact on quality of life and burden of age-related chronic diseases. As senescent cells resist apoptosis, we used microarrays to identify transcripts and pathways that differ between senescent and non-senescent preadipocytes, and might be involved in resistance to apoptosis."
+  }
+ ],
+ "senescent+proliferating+drug screen": [
+  {
+   "gse": "GSE302417",
+   "title": "Distinct roles of COPI proteins attenuated with cell senescence",
+   "n": 24,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Cellular senescence is characterized by persistent cell cycle arrest, apoptosis resistance, and widespread changes in gene expression.  Although the functional alterations in organelles like mitochondria and lysosomes are well characterized, senescence-associated changes in the structure and function of the Golgi apparatus remain poorly understood.  The Golgi apparatus orchestrates intracellular transport processes that rely heavily on the coating of vesicles with Coatomer Protein Complex I (COPI) proteins (COPA, COPB1, COPB2, COPD, COPE, COPG1, and COPZ1).  Based on an earlier RNA interferenc"
+  },
+  {
+   "gse": "GSE221104",
+   "title": "The YAP-TEAD complex promotes senescent cell survival by lowering endoplasmic reticulum stress [bulk RNA-seq]",
+   "n": 9,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Sublethal cell damage can trigger a complex adaptive program known as senescence, characterized by growth arrest, resistance to apoptosis, and a senescence-associated secretory phenotype (SASP).  As senescent cells accumulating in aging organs are linked to many age-associated diseases, senotherapeutic strategies are actively sought to eliminate them.  Here, a whole-genome CRISPR knockout screen revealed that proteins in the YAP-TEAD pathway influenced senescent cell viability.  Accordingly, treating senescent cells with a drug that inhibited this pathway, Verteporfin (VPF), selectively trigge"
+  },
+  {
+   "gse": "GSE226712",
+   "title": "Fast proliferating and slowly migrating non-small cell lung cancer cells are vulnerable to decitabine and retinoic acid combinatorial treatment",
+   "n": 18,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Non-small cell lung cancer (NSCLC) patients are often elderly or unfit and thus cannot tolerate standard aggressive therapy regimes. In this study, we test the efficacy of the DNA-hypomethylating agent decitabine (DAC) in combination with all-trans retinoic acid (ATRA), which has been shown to possess little systemic adverse effects. Screening a broad panel of 56 NSCLC cell lines uncovered a decrease in cell viability after the combination treatment in 77% of the cell lines. Transcriptomics, proteomics, proliferation and migration profiling revealed that fast proliferating and slowly migrating"
+  },
+  {
+   "gse": "GSE203191",
+   "title": "Single cell analysis of menstrual endometrial tissues defines phenotypes associated with endometriosis",
+   "n": 11,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Background. Endometriosis is a common, complex disorder which is underrecognized and subject to prolonged delays in diagnosis. It is accompanied by significant changes in the eutopic endometrial lining. Methods . We have undertaken the first single cell RNA-sequencing (scRNA-Seq) comparison of endometrial tissues in freshly collected menstrual effluent (ME) from 33 subjects, including confirmed endometriosis patients (cases) and controls as well as symptomatic subjects (who have chronic symptoms of endometriosis but have not been diagnosed). Results . We identify a unique subcluster of prolife"
+  },
+  {
+   "gse": "GSE190998",
+   "title": "A BDNF-TrkB autocrine loop enhances senescent cell viability [RNA-seq]",
+   "n": 12,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Cellular senescence is characterized by cell cycle arrest, resistance to apoptosis, and a senescence-associated secretory phenotype (SASP) whereby cells secrete pro-inflammatory and tissue-remodeling factors. Given that the SASP exacerbates age-associated pathologies, some aging interventions selectively eliminate senescent cells. In this study, a drug library screen uncovered TrkB (NTRK2) inhibitors as selectively capable of triggering apoptosis of senescent, but not proliferating, human fibroblasts. Senescent cells expressed high levels of TrkB, which supported senescent cell viability, and "
+  },
+  {
+   "gse": "GSE191255",
+   "title": "RNA seq on NEO2734, CFI-400945 or SASP treated cells",
+   "n": 8,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Senolytics, drugs that kill senescent cells, have been proposed to improve the response to pro-senescence cancer therapies. However, lack of broadly acting senolytic drugs remains a challenge. Using inducible CRISPR/Cas9-based genetic screens in different senescent cancer cell models, we identify here loss of the death receptor inhibitor cFLIP as a universal vulnerability of senescent cancer cells. Senescent cancer cells are primed for apoptotic death by NF-kB-mediated upregulation of death receptor DR5 and its ligand TRAIL but are protected from death by increased cFLIP. Activation of DR5 sig"
+  },
+  {
+   "gse": "GSE132371",
+   "title": "Cell Senescence",
+   "n": 54,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "This SuperSeries is composed of the SubSeries listed below."
+  },
+  {
+   "gse": "GSE132370",
+   "title": "Deep sequencing of human fibroblastic cell line IMR90, either proliferating or senescent,  with or without TSA treatment.",
+   "n": 12,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Gene expression changes were compared in proliferating and senescent human IMR90 cells, with or without TSA treatment. Method: RNA was extracted, in triplicate, then sequenced with an Illumina NextSeq 500 sequencer. Sequence reads passing the quality control filters were aligned using Tophat2 and then analysed with Cufflinks."
+  },
+  {
+   "gse": "GSE132369",
+   "title": "Deep sequencing of human fibroblastic cell line IMR90, either proliferating or senescent,  expressing either empty vector or Parkin, with or without CCCP treatment",
+   "n": 18,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Gene expression changes were compared in proliferating and senescent human IMR90 cells, with either empty vector, Parkin, or Parkin+CCCP. Method: RNA was extracted, in triplicate, then sequenced with an Illumina NextSeq 500 sequencer. Sequence reads passing the quality control filters were aligned using Tophat2 and then analysed with Cufflinks."
+  },
+  {
+   "gse": "GSE106146",
+   "title": "Histone acetyltransferase p300 induces de novo super-enhancers to drive cellular senescence [ChIP-seq]",
+   "n": 82,
+   "type": "Genome binding/occupancy profiling by high throughput sequencing",
+   "summary": "Cellular senescence is a state of stable proliferative arrest induced by stress and is associated with a pro-inflammatory program. Senescent cells have anti-tumorigenic properties, however, their accumulation during aging contributes to chronic inflammation and age-related diseases. While senescence is associated with profound alterations of the epigenome, a systematic view of epigenetic factors in regulating senescence is lacking. Here, we curated a library of short hairpin RNAs for targeted silencing of all known epigenetic factors and performed a high-throughput loss-of-function screen to i"
+  },
+  {
+   "gse": "GSE105951",
+   "title": "Histone acetyltransferase p300 induces de novo super-enhancers to drive cellular senescence [RNA-seq]",
+   "n": 16,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Cellular senescence is a state of stable proliferative arrest induced by stress and is associated with a pro-inflammatory program. Senescent cells have anti-tumorigenic properties, however, their accumulation during aging contributes to chronic inflammation and age-related diseases. While senescence is associated with profound alterations of the epigenome, a systematic view of epigenetic factors in regulating senescence is lacking. Here, we curated a library of short hairpin RNAs for targeted silencing of all known epigenetic factors and performed a high-throughput loss-of-function screen to i"
+  },
+  {
+   "gse": "GSE105936",
+   "title": "Histone acetyltransferase p300 induces de novo super-enhancers to drive cellular senescence [PRO-seq]",
+   "n": 2,
+   "type": "Other",
+   "summary": "Cellular senescence is a state of stable proliferative arrest induced by stress and is associated with a pro-inflammatory program. Senescent cells have anti-tumorigenic properties, however, their accumulation during aging contributes to chronic inflammation and age-related diseases. While senescence is associated with profound alterations of the epigenome, a systematic view of epigenetic factors in regulating senescence is lacking. Here, we curated a library of short hairpin RNAs for targeted silencing of all known epigenetic factors and performed a high-throughput loss-of-function screen to i"
+  },
+  {
+   "gse": "GSE105935",
+   "title": "Histone acetyltransferase p300 induces de novo super-enhancers to drive cellular senescence [DNA-seq]",
+   "n": 50,
+   "type": "Other",
+   "summary": "Cellular senescence is a state of stable proliferative arrest induced by stress and is associated with a pro-inflammatory program. Senescent cells have anti-tumorigenic properties, however, their accumulation during aging contributes to chronic inflammation and age-related diseases. While senescence is associated with profound alterations of the epigenome, a systematic view of epigenetic factors in regulating senescence is lacking. Here, we curated a library of short hairpin RNAs for targeted silencing of all known epigenetic factors and performed a high-throughput loss-of-function screen to i"
+  },
+  {
+   "gse": "GSE103938",
+   "title": "Transcriptome analysis of OSKM- or RAS-induced senescent IMR90 fibroblasts treated with Rapamycin.",
+   "n": 21,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "Ectopic expression of the transcription factors Oct4, Sox2, Klf4 and c-Myc (OSKM) can reprogram somatic cells into induced pluripotent stem cells (iPSCs). These iPSCs are highly similar to embryonic stem cells and can be used for regenerative medicine, drug screening and disease modelling. Despite recent advances, reprogramming is a slow and inefficient process. This suggests that there are several safeguarding mechanisms to counteract cell fate conversion. Cellular senescence is one of these barriers, which is mediated through activation of the tumour suppressors p53/p21CIP1, p15INK4b and p16"
+  },
+  {
+   "gse": "GSE95021",
+   "title": "Coupling shRNA screens with single-cell RNA-Seq identifies mechanisms regulating senescence during reprogramming",
+   "n": 1513,
+   "type": "Expression profiling by high throughput sequencing",
+   "summary": "This SuperSeries is composed of the SubSeries listed below."
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+.venv/
+tmp/
+output/
+__pycache__/
+*.pyc
+
+# Third-party datasets — fetched by scripts/fetch_data.sh, not redistributed here
+senolytic_repurposing/data/
+
+# Publisher full-text XML — cited by DOI, not redistributed
+dataset_search/paper_*.xml
+
+# Contains researchers' personal contact details — not for publication
+OUTREACH_PLAN_2026-09-29.md
