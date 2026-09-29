@@ -39,4 +39,4 @@ Using GSE329184 (Tan et al., *npj Aging* 2026; NHDF/NHLF fibroblasts, 2 donors, 
 ## What I am asking
 Not for collaboration or data. Just: **is Test A worth running, and is Test B answerable at all with public data?** Please assess the two questions separately: whether the arrest comparators and phenotyping support Test A, and whether any available survival endpoint and experimental matching support Test B. A recommendation not to proceed with either test would be useful and will be reflected in the write-up.
 
-Everything is reproducible and the failed validations are in the repository, including the withdrawn circular result. Run 1 and the corrected report are frozen with checksums. No candidate list is being presented as validated, and no compound here is a recommendation for any use.
+Everything is reproducible and the failed validations are public, including the withdrawn circular result: https://github.com/Jhodytropical/senescence-connectivity-pilot Run 1 and the corrected report are frozen with checksums. No candidate list is being presented as validated, and no compound here is a recommendation for any use.
