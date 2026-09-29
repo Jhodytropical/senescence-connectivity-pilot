@@ -56,7 +56,9 @@ On hold pending methodological feedback. Two candidate follow-ups, deliberately 
 
 **If you work on senescence and think either test is misconceived, that is the most useful thing you could tell me.** Open an issue, or see the protocol above. A recommendation to stop will be recorded as the outcome, not quietly dropped.
 
-Feedback requests went to three researchers on 2026-09-29. The exact protocol they were linked to is tagged [`sent-2026-09-29`](../../tree/sent-2026-09-29); later thinking is appended to the protocol as a dated addendum rather than edited in.
+Feedback requests went to three researchers on 2026-09-29. The exact protocol they were linked to is commit [`b8fb688`](../../blob/b8fb688/PROTOCOL_for_feedback_2026-09-29.md), also tagged `sent-2026-09-29`. Later thinking is appended to the protocol as a dated addendum, never edited into the body.
+
+**Conventions.** `senolytic_repurposing/frozen/` is immutable — its `SHA256SUMS` must always verify, and any change there invalidates the record. Any future correspondence cites commit-pinned URLs rather than `main`, which drifts.
 
 ## Sources
 CellAge / DrugAge: Human Ageing Genomic Resources · SenMayo: Saul et al. 2022 · Fridman senescence sets & HALLMARK: MSigDB · LINCS L1000 consensus signatures: Enrichr, Ma'ayan Lab · Drug Repurposing Hub: Broad Institute · GSE329184: Tan et al., *npj Aging* 2026, doi:10.1038/s41514-026-00500-8 · GSE162175: Wagner et al., *Nat Commun* 2026, doi:10.1038/s41467-026-71564-z
