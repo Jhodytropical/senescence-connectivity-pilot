@@ -32,21 +32,23 @@ Correction to earlier project notes: the CellAge expression signature is Chatsir
 
 The comparator suggestion above is **withdrawn for testing SenFlag or the 55 genes.** A follow-up check of each signature's derivation data found:
 
+Cells give accession-level status: "not cited" means the accession does not appear in the paper or its supplement. It does not exclude reuse of the same underlying samples.
+
 | Candidate test set | SenFlag | Hernandez-Segura 2017 | CellAge 2019 | SenMayo |
 |---|---|---|---|---|
-| GSE162175 | not used | not used | not used | not used |
-| GSE329184 | not used | not used | not used | not used |
-| GSE75643 | **derivation** (its quiescent arm) | not used | not used | not used |
-| E-MTAB-5403 (= PRJEB19157) | **derivation** | **derivation** | not used | not used |
-| GSE213323 | **derivation** (supports the NFIA/CCND1 quiescence markers) | not used | not used | not used |
+| GSE162175 | not cited | not cited | not cited | not cited |
+| GSE329184 | not cited | not cited | not cited | not cited |
+| GSE75643 | **derivation** (its quiescent arm) | not cited | not cited | not cited |
+| E-MTAB-5403 (= PRJEB19157) | **derivation** | **derivation** | not cited | not cited |
+| GSE213323 | **derivation** (supports the NFIA/CCND1 quiescence markers) | not cited | not cited | not cited |
 
 Evidence:
 - **Cited in the SenFlag text:** GSE75643, PRJEB19157 and GSE213323 all appear in the SenFlag full text (PMC13433995). ENA maps PRJEB19157 to E-MTAB-5403.
 - **Absent from SenFlag's supplement:** GSE162175 and GSE329184 appear nowhere among the 151 accessions in SenFlag's supplementary files, which include the per-gene results of its pooled bulk analysis.
 - **Hernandez-Segura 2017** derived its signature from its own E-MTAB-5403.
-- **CellAge** derived from 20 replicative-senescence microarray series (Table S2), none of them the candidates, and has no quiescent arm.
+- **CellAge** derived from 20 replicative-senescence microarray series (Table S2). No candidate accession is among them, but whether any source study shares samples or experiments with a candidate has not been checked. It has no quiescent arm.
 - **SenMayo** derived from the literature, with no expression data.
 
 Implications:
 - **Circular for SenFlag:** scoring SenFlag on GSE75643, E-MTAB-5403 or GSE213323 would test it on its own training data. The same holds for scoring the 55 genes on E-MTAB-5403. Use them only for sanity checks or training.
-- **The independent test sets for all four signatures are GSE162175 and GSE329184.** GSE329184's rapamycin arm is still "arrest at RNA collection unconfirmed", so in practice GSE162175's serum-starved arm is the only independent, protocol-documented quiescent comparator.
+- **At accession level, GSE162175 and GSE329184 are not cited by any of the four signatures.** Sample-level independence, including CellAge's source studies, remains to be checked. GSE329184's rapamycin arm is still "arrest at RNA collection unconfirmed", so in practice GSE162175's serum-starved arm is the only independent, protocol-documented quiescent comparator.

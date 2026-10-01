@@ -48,5 +48,5 @@ Palbociclib is excluded in both because CDK4/6 inhibition confounds arrest with 
 - **GSE329184 currently has no confirmed arrest comparator.** Its rapamycin-treated arm cannot be used as a quiescent control until the timing question is answered. Its senescent and proliferating arms remain usable.
 - **GSE162175 is the only candidate source of a senescent-vs-quiescent contrast**, with n = 4 quiescent samples from one cell line, replicate provenance unconfirmed and protocol-level published arrest evidence. That is thinner than the protocol assumed.
 - **Open question for the dataset authors:** was rapamycin removed or replenished at the 48 h medium change, and were the rapamycin wells still non-proliferating at day 7?
-- A separate review of existing signatures (SenFlag, Hernandez-Segura, CellAge, SenMayo) is under way. It may identify an existing readout or a better comparator dataset.
+- Follow-up the same day: see `SIGNATURE_REVIEW_2026-10-01.md` (existing signatures and their training data) and `COMPARATOR_SEARCH_2026-10-01.md` (backup arrest comparator; GSE307082 is a promising candidate pending review of its files).
 - Nothing here changes the hold: Run 3 waits for methodological feedback.
