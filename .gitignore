@@ -12,3 +12,8 @@ dataset_search/paper_*.xml
 
 # Contains researchers' personal contact details — not for publication
 OUTREACH_PLAN_2026-09-29.md
+
+# Third-party GEO count files for Test A prep — re-downloadable, not redistributed
+test_a_prep/data/
+# Private working notes — never publish
+test_a_prep/PRIVATE_*

@@ -1,0 +1,71 @@
+{
+  "GSE162175": {
+    "n_genes": 57232,
+    "gene_id_kinds": {
+      "ensembl": 57232
+    },
+    "duplicate_gene_ids": 0,
+    "non_integer_cells": 0,
+    "n_count_columns": 32,
+    "library_size_min": 23494414,
+    "library_size_median": 39811221,
+    "library_size_max": 57742216,
+    "count_columns_without_gsm": []
+  },
+  "GSE329184": {
+    "n_genes": 58051,
+    "gene_id_kinds": {
+      "ensembl": 58051
+    },
+    "duplicate_gene_ids": 0,
+    "non_integer_cells": 0,
+    "n_count_columns": 230,
+    "library_size_min": 19680288,
+    "library_size_median": 25085509,
+    "library_size_max": 31761345,
+    "count_columns_without_gsm": [],
+    "gsm_not_in_processed_counts": [
+      "Sample 0010",
+      "Sample 0135",
+      "Sample 0136",
+      "Sample 0143",
+      "Sample 0144",
+      "Sample 0211",
+      "Sample 0212",
+      "Sample 0219",
+      "Sample 0220",
+      "Sample 0235"
+    ]
+  },
+  "roles": {
+    "GSE162175 ARREST_COMPARATOR": 4,
+    "GSE162175 EXCLUDE": 4,
+    "GSE162175 SENESCENT": 16,
+    "GSE162175 proliferating_reference": 8,
+    "GSE329184 EXCLUDE": 160,
+    "GSE329184 RAPAMYCIN_TREATED_ARREST_UNCONFIRMED": 16,
+    "GSE329184 SENESCENT": 32,
+    "GSE329184 proliferating_reference": 32
+  },
+  "GSE329184_test_a_design_cells": {
+    "NHDF1 | bleomycin": 4,
+    "NHDF1 | late passage (P25+)": 3,
+    "NHDF1 | rapamycin": 4,
+    "NHDF1 | untreated (NTC)": 4,
+    "NHDF1 | vehicle DMSO": 4,
+    "NHDF1_2 | late passage (P25+)": 4,
+    "NHDF2 | bleomycin": 4,
+    "NHDF2 | rapamycin": 4,
+    "NHDF2 | untreated (NTC)": 4,
+    "NHDF2 | vehicle DMSO": 4,
+    "NHLF1 | bleomycin": 4,
+    "NHLF1 | rapamycin": 2,
+    "NHLF1 | untreated (NTC)": 4,
+    "NHLF1 | vehicle DMSO": 4,
+    "NHLF2 | bleomycin": 4,
+    "NHLF2 | rapamycin": 2,
+    "NHLF2 | untreated (NTC)": 4,
+    "NHLF2 | vehicle DMSO": 4,
+    "NHLF_1and2 | late passage (P25+)": 4
+  }
+}
