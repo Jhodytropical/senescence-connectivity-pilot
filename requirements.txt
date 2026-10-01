@@ -1,0 +1,14 @@
+# Exact environment used for Run 1, Run 2 and the Test A prep (Python 3.14.6, macOS). Install: pip install -r requirements.txt
+certifi==2026.7.22
+charset-normalizer==3.5.1
+et_xmlfile==2.0.0
+idna==3.20
+Markdown==3.11
+numpy==2.5.3
+openpyxl==3.1.5
+pandas==3.0.6
+python-dateutil==2.9.0.post0
+requests==2.34.2
+scipy==1.18.1
+six==1.17.0
+urllib3==2.8.0

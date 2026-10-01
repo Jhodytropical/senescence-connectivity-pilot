@@ -17,3 +17,6 @@ OUTREACH_PLAN_2026-09-29.md
 test_a_prep/data/
 # Private working notes — never publish
 test_a_prep/PRIVATE_*
+
+# Local-only patterns for scripts/check_no_private.sh (names/addresses of correspondents) — never publish
+.private_patterns

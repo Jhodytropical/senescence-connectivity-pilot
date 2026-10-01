@@ -20,4 +20,9 @@ curl -sL -o LINCS_L1000_Chem_Pert_Consensus_Sigs.gmt \
 # Broad Drug Repurposing Hub annotations (mechanism-of-action classes)
 curl -sLO https://s3.amazonaws.com/data.clue.io/repurposing/downloads/repurposing_drugs_20200324.txt
 mv repurposing_drugs_20200324.txt repurposing_drugs.txt
-echo "done"
+
+# Test A data preparation: GEO processed counts (structure checks only; see test_a_prep/)
+mkdir -p ../../test_a_prep/data && cd ../../test_a_prep/data
+curl -sLO https://ftp.ncbi.nlm.nih.gov/geo/series/GSE162nnn/GSE162175/suppl/GSE162175_Rawcounts.txt.gz
+curl -sLO https://ftp.ncbi.nlm.nih.gov/geo/series/GSE329nnn/GSE329184/suppl/GSE329184_included_samples_counts.csv.gz
+echo "done — now run scripts/verify_inputs.sh to compare against the files the pilot used"
