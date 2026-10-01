@@ -35,7 +35,7 @@ Lower value: GSE117337 (3′ poly(A) sequencing), GSE42509 (n = 2, no assay), GS
   - **Status:** the preprint is unreviewed.
   - **Arrest evidence:** EdU is described per model, not per sequenced replicate.
   - **SA-βgal:** quiescent cells were SA-βgal positive, so SA-βgal can't separate the states here.
-  - **Heat-shock design:** Test A compares basal cell states, so the acute heat-shock samples are outside the intended comparison. That exclusion must be stated in a plan before any scoring.
+  - **Heat-shock design:** Test A targets conditions without an additional acute heat-shock perturbation, so the heat-shock samples are outside the intended comparison. That exclusion must be stated in a plan before any scoring.
 
 ## Implication for Test A (interpretation)
 - **What the pair could provide:** GSE162175 (serum withdrawal) and GSE307082 (contact inhibition) could give Test A two arrest mechanisms, neither of them senomorphic. One dataset could derive a signature and the other test it, provided sample-level independence from the baselines holds.
