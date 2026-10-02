@@ -53,3 +53,21 @@ The text above is unchanged, and the exact state linked in those messages is com
 This strengthens rather than replaces Q1: is a non-senomorphic second arrest mechanism — contact inhibition, or serum withdrawal alone if its phenotyping holds up — a precondition for the comparison meaning anything? And if the rapamycin comparator is usable at all, is it usable only for non-SASP senescence features?
 
 **On stopping.** Restating what the section above already commits to: a recommendation not to proceed is a useful answer and will be recorded as the outcome. The risk I am guarding against is building Test A because the pipeline already exists.
+
+---
+
+## Addendum, added 2026-10-01: the connectivity screen is closed as a completed negative
+The text above and the earlier addendum are unchanged; the state linked in the original requests is still commit [`b8fb688`](https://github.com/Jhodytropical/senescence-connectivity-pilot/blob/b8fb688/PROTOCOL_for_feedback_2026-09-29.md). This is appended, not folded in.
+
+**Closed.** The drug-repurposing connectivity screen is a completed negative-result pilot. It showed no senescence specificity beyond proliferation arrest, and it did not discriminate known senolytics or senomorphics. The candidate list stays unvalidated and is not a set of leads. **No further ranking will be run** against the L1000 consensus library, and the scoring will not be reweighted. Feedback still requested below is not a reason to keep the screen open.
+
+**Test B stays paused**, because no available dataset has an interpretable survival endpoint measured alongside expression.
+
+**Test A is not started.** The rapamycin arm of GSE329184 is treated as "arrest at RNA collection unconfirmed", so it is not used as an arrest control. If a later attempt happens, it would be a **methods test of a signature only**, not a drug ranking:
+- serum withdrawal versus contact inhibition, within IMR-90;
+- the deriving and testing datasets, and the pass rule including uncertainty at n = 3–4, fixed and committed to this repository before any scoring;
+- a failed test ends the connectivity approach.
+
+A pass would show that a contrast transfers across two arrest mechanisms in one cell line. It would not support a new drug ranking or generalise to other cell types.
+
+The questions in the sections above remain open to correction. A recommendation not to proceed with Test A is still a useful answer and will be recorded as the outcome.

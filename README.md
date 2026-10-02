@@ -1,5 +1,7 @@
 # A senescence connectivity-mapping pilot that failed its own validation
 
+> **Status, 2026-10-01: the connectivity screen is closed as a completed negative.** No further ranking will be run and the candidate list stays unvalidated. Test B remains paused and Test A is not started; any later attempt would be a methods test of a signature only. See the [dated addendum](PROTOCOL_for_feedback_2026-09-29.md#addendum-added-2026-10-01-the-connectivity-screen-is-closed-as-a-completed-negative).
+
 **Negative result.** I scored 5,425 LINCS L1000 consensus drug signatures against the CellAge senescence meta-signature to look for compounds that reverse cellular senescence. The screen **did not demonstrate senescence specificity beyond proliferation arrest**, and did not discriminate known senolytics or senomorphics. This repository holds the code, the failed validations, a withdrawn result, and the reasoning — so the next person can skip this particular dead end or tell me where I went wrong.
 
 Jean Hyacinthe · independent, computational only, no lab · September 2026
@@ -54,7 +56,7 @@ No input data is redistributed here. `scripts/fetch_data.sh` pulls CellAge and D
 Contributors: run `scripts/install_hooks.sh` once. It installs pre-commit and pre-push checks (`scripts/check_no_private.sh`) that refuse private notes, third-party data and publisher full text.
 
 ## Where this is going
-On hold pending methodological feedback. Two candidate follow-ups, deliberately kept separate:
+The connectivity screen is closed (see the status note above). Two follow-up questions remain open to feedback, deliberately kept separate, and neither is started:
 
 - **Test A — a senescent-vs-*arrested* signature.** Feasible, not yet validated. Needs at least two arrest mechanisms (rapamycin in GSE329184, serum withdrawal in GSE162175) so a result does not just reflect one compound's effects. **Known weakness:** rapamycin is itself a senomorphic, so senescent-vs-rapamycin-arrested may amount to senescent-vs-partially-suppressed-senescent. A non-senomorphic second arrest mechanism may be a precondition — see the [protocol addendum](PROTOCOL_for_feedback_2026-09-29.md#addendum-added-2026-09-29-after-the-feedback-requests-were-sent).
 - *Update 2026-10-01 (preparation only, no analysis):* the rapamycin arm of GSE329184 is now treated as "arrest at RNA collection unconfirmed", not as an arrest comparator. A contact-inhibition dataset (GSE307082) is a promising backup, pending review. See [`test_a_prep/`](test_a_prep/) for the sample manifest, feasibility notes, signature review and comparator search. These are exploratory and their conclusions are unsettled.
