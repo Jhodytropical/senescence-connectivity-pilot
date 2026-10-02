@@ -1,6 +1,6 @@
 # Test A data feasibility — GSE162175 and GSE329184
 
-2026-10-01, revised the same day after review. **Preparation only.** No expression comparison, signature, score or drug ranking was computed. Inputs were the GEO sample records, the two public count files (structure only: columns, identifiers, integer check, library sizes) and the two papers' methods. Run 3 remains on hold pending methodological feedback. Interpretation is unresolved; this file is not for publication until reviewed.
+2026-10-01, revised the same day. **Preparation only.** No expression comparison, signature, score or drug ranking was computed. Inputs were the GEO sample records, the two public count files (structure only: columns, identifiers, integer check, library sizes) and the two papers' methods. Run 3 remains on hold pending methodological feedback. Interpretation is unresolved; this file is not for publication until reviewed.
 
 Files: `sample_manifest.csv` (272 samples, one row each), `structure_checks.json`, `build_manifest.py` (re-runs both). The count files are in `data/` and are not redistributed.
 

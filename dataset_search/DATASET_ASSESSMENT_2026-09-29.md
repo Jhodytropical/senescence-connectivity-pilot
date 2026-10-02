@@ -1,8 +1,8 @@
 # Dataset availability check (before deciding on Run 3), 2026-09-29
 
-**Current status:** Run 3 remains on hold, with methodological feedback first. The initial assessment and first verdict below are retained as history and superseded by “Refinements after second review” at the end. Test A is feasible, not validated; Test B currently lacks an interpretable survival endpoint.
+**Current status:** Run 3 remains on hold, with methodological feedback first. The initial assessment and first verdict below are retained as history and superseded by “Refinements (2026-09-29)” at the end. Test A is feasible, not validated; Test B currently lacks an interpretable survival endpoint.
 
-**Required design** (from the critique): drug-treated **senescent** cells with matched **proliferating** and **quiescent/arrested** controls, plus **viability** measurements.
+**Required design:** drug-treated **senescent** cells with matched **proliferating** and **quiescent/arrested** controls, plus **viability** measurements.
 **Search:** NCBI GEO E-utilities with 3 queries → 190 unique human series (`geo_hits.json`, `geo_search.py`). Series were flagged by design keywords, then the top candidates were read by hand. The search is read-only, and nothing was downloaded beyond metadata.
 
 ## Best match: GSE329184 (public 2026-09-23, PMID 42754596; RNA-seq counts matrix available)
@@ -58,7 +58,7 @@ The authors report that **SenMayo "was only partially enriched for chemically in
 
 ---
 
-# Refinements after second review (2026-09-29)
+# Refinements (2026-09-29)
 1. **Test B wording.** The verdict above ("needs survival measured alongside expression in the same wells") overstated the requirement. Properly matched parallel plates can support a condition-level comparison if the viability assay, replication and matching are adequate. **The main reason Test B stays paused is the lack of an interpretable survival endpoint** (no viability assay; nuclei count read by the authors as mitosis *or* apoptosis), not the separate plates alone. Status: "The currently identified measurements do not support a reliable test of selective senolysis versus general toxicity. We welcome advice on whether additional measurements or supplements make that comparison possible."
 2. **Test A is feasible, not validated.** Senescent vs rapamycin-arrested cells may separate senescence from *rapamycin's specific effects* rather than from arrest in general. Checked GSE162175 (Wagner et al., *Nat Commun* 2026, PMC13254117; local copy `paper_PMC13254117.xml`): its quiescence is by **serum withdrawal** (GEO growth protocol: DMEM 0.5% FBS, days 3–8; 4 replicates), which is a different arrest mechanism, as required. Open points: no explicit arrest phenotyping of the *sequenced* quiescent samples was found; the paper's imaging arm used 0.1% FBS, so the conditions may differ; and palbociclib-induced senescence is in both datasets, so palbociclib must be excluded from inducer tests.
 3. **SenMayo.** Its partial enrichment is a **coverage** question (limited sensitivity or context dependence in cultured fibroblasts), not by itself a specificity finding. Specificity would need a test of whether it responds in non-senescent conditions such as ordinary inflammation.
