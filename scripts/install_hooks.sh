@@ -10,15 +10,17 @@ cat > "$hooks/pre-push" <<'H'
 #!/usr/bin/env bash
 remote="${1:-origin}"
 z=0000000000000000000000000000000000000000
+check="$(git rev-parse --show-toplevel)/scripts/check_no_private.sh"
 while read -r lref lsha rref rsha; do
   [ "$lsha" = "$z" ] && continue
   commit=$(git rev-parse "$lsha^{commit}" 2>/dev/null) || { echo "pre-push: cannot resolve $lref"; exit 1; }
+  # An annotated tag is scanned for private text in its own message and tagger lines when it is new or changed.
+  case "$lref" in refs/tags/*) if [ "$lsha" != "$rsha" ]; then "$check" --tag "$lsha" || exit 1; fi;; esac
   # Every commit that is new on THIS remote is checked one by one. Commits already on this remote's tracking
   # branches expose nothing new, which also covers a tag on a published commit. If there are no tracking refs
   # for this remote (for example a push to a bare URL), all history is checked, so the hook fails closed.
-  for c in $(git rev-list --reverse "$commit" --not --remotes="$remote"); do
-    "$(git rev-parse --show-toplevel)/scripts/check_no_private.sh" --commit "$c" || exit 1
-  done
+  commits=$(git rev-list --reverse "$commit" --not --remotes="$remote") || { echo "pre-push: git rev-list failed"; exit 1; }
+  for c in $commits; do "$check" --commit "$c" || exit 1; done
 done
 H
 chmod +x "$hooks/pre-commit" "$hooks/pre-push"
