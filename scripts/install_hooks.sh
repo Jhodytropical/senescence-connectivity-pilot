@@ -9,11 +9,17 @@ H
 cat > "$hooks/pre-push" <<'H'
 #!/usr/bin/env bash
 z=0000000000000000000000000000000000000000
+empty_tree=$(git hash-object -t tree /dev/null)
 while read -r lref lsha rref rsha; do
   [ "$lsha" = "$z" ] && continue
-  case "$lref" in refs/tags/*) continue;; esac   # tags point at commits already checked on the branch push
-  if [ "$rsha" = "$z" ]; then range="$(git rev-list --max-parents=0 "$lsha" | tail -1)..$lsha"; else range="$rsha..$lsha"; fi
-  "$(git rev-parse --show-toplevel)/scripts/check_no_private.sh" --range "$range" || exit 1
+  commit=$(git rev-parse "$lsha^{commit}" 2>/dev/null) || { echo "pre-push: cannot resolve $lref"; exit 1; }
+  # A tag is skipped only if its commit is already on a remote-tracking branch (so it was checked when that
+  # branch was pushed). A tag on any other commit is checked like a branch push.
+  case "$lref" in refs/tags/*)
+    if git branch -r --contains "$commit" 2>/dev/null | grep -q .; then continue; fi;;
+  esac
+  if [ "$rsha" = "$z" ]; then base=$(git merge-base "$commit" origin/main 2>/dev/null || echo "$empty_tree"); else base="$rsha"; fi
+  "$(git rev-parse --show-toplevel)/scripts/check_no_private.sh" --range "$base..$commit" || exit 1
 done
 H
 chmod +x "$hooks/pre-commit" "$hooks/pre-push"

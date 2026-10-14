@@ -8,8 +8,10 @@ set -uo pipefail
 root="$(git rev-parse --show-toplevel)"; cd "$root"
 mode="${1:---staged}"
 if [ "$mode" = "--range" ]; then
-  files=$(git diff --name-only --diff-filter=ACMR "$2")
-  show() { git show "${2##*..}:$1" 2>/dev/null; }
+  range="${2:?--range needs a rev range, for example base..tip}"
+  rev="${range##*..}"          # the commit whose file contents are checked (not the index)
+  files=$(git diff --name-only --diff-filter=ACMR "$range")
+  show() { git show "$rev:$1" 2>/dev/null; }
 else
   files=$(git diff --cached --name-only --diff-filter=ACMR)
   show() { git show ":$1" 2>/dev/null; }
