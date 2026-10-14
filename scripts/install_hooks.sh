@@ -11,6 +11,7 @@ cat > "$hooks/pre-push" <<'H'
 z=0000000000000000000000000000000000000000
 while read -r lref lsha rref rsha; do
   [ "$lsha" = "$z" ] && continue
+  case "$lref" in refs/tags/*) continue;; esac   # tags point at commits already checked on the branch push
   if [ "$rsha" = "$z" ]; then range="$(git rev-list --max-parents=0 "$lsha" | tail -1)..$lsha"; else range="$rsha..$lsha"; fi
   "$(git rev-parse --show-toplevel)/scripts/check_no_private.sh" --range "$range" || exit 1
 done

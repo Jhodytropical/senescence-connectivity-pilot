@@ -42,7 +42,7 @@ Lower value: GSE117337 (3′ poly(A) sequencing), GSE42509 (n = 2, no assay), GS
 - **Arrest and replication evidence is partial:** EdU at model level in GSE307082, protocol only in GSE162175, and 3–4 cultures per group.
 - **Scope of a cross-test:** it would assess transfer across labs and arrest methods **within IMR-90**. It would not establish that a signature generalises to other cell types.
 - **Markers:** reversible arrest and absent EdU incorporation support the quiescent label. SA-βgal positivity in the quiescent cells shows why no single marker should define the groups.
-- **Before any scoring, a committed plan must fix:**
+- **The pre-scoring plan is `TEST_A_PLAN_2026-10-14.md`, which supersedes the list below.** Before any scoring, a committed plan must fix:
   - which dataset derives and which tests, with no swapping after seeing performance;
   - the pass criterion, including uncertainty with three replicates;
   - the heat-shock exclusion rationale;

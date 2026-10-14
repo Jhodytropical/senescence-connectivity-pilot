@@ -9,5 +9,6 @@ status=0
 if [ -d "$root/test_a_prep/data" ]; then
   (cd "$root/test_a_prep/data" && shasum -a 256 -c "$root/scripts/TESTA_INPUT_SHA256SUMS") || status=1
 fi
+(cd "$root/test_a_prep/baselines" && shasum -a 256 -c SHA256SUMS) || status=1
 [ $status -eq 0 ] && echo "All inputs match the pilot's checksums." || echo "Some inputs differ from the pilot's (see above)."
 exit $status
